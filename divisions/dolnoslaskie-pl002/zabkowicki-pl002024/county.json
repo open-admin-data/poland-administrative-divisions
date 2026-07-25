@@ -1,0 +1,45 @@
+{
+  "id": "PL002024",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Zabkowicki",
+    "en": "Zabkowicki",
+    "slug": "zabkowicki-pl002024"
+  },
+  "code": {
+    "id": "PL002024",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL002",
+    "level": 1,
+    "name": {
+      "local": "Dolnośląskie",
+      "en": "Dolnoslaskie",
+      "slug": "dolnoslaskie-pl002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.557",
+    "lon": "16.856"
+  },
+  "metadata": {},
+  "source": {}
+}

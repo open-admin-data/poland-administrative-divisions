@@ -1,0 +1,45 @@
+{
+  "id": "PL014007",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kozienicki",
+    "en": "Kozienicki",
+    "slug": "kozienicki-pl014007"
+  },
+  "code": {
+    "id": "PL014007",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL014",
+    "level": 1,
+    "name": {
+      "local": "Mazowieckie",
+      "en": "Mazowieckie",
+      "slug": "mazowieckie-pl014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.64",
+    "lon": "21.402"
+  },
+  "metadata": {},
+  "source": {}
+}

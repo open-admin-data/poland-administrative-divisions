@@ -1,0 +1,45 @@
+{
+  "id": "PL004062",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Grudziadz",
+    "en": "Grudziadz",
+    "slug": "grudziadz-pl004062"
+  },
+  "code": {
+    "id": "PL004062",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL004",
+    "level": 1,
+    "name": {
+      "local": "Kujawsko-Pomorskie",
+      "en": "Kujawsko-Pomorskie",
+      "slug": "kujawsko-pomorskie-pl004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.473",
+    "lon": "18.762"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "PL026",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Świętokrzyskie",
+    "en": "Swietokrzyskie",
+    "slug": "swietokrzyskie-pl026"
+  },
+  "code": {
+    "id": "PL026",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.764",
+    "lon": "20.799"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/swietokrzyskie-pl026/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

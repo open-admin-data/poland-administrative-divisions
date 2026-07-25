@@ -1,0 +1,45 @@
+{
+  "id": "PL024076",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Swietochlowice",
+    "en": "Swietochlowice",
+    "slug": "swietochlowice-pl024076"
+  },
+  "code": {
+    "id": "PL024076",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.298",
+    "lon": "18.906"
+  },
+  "metadata": {},
+  "source": {}
+}

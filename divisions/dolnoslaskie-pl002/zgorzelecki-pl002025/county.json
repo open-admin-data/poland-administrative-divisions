@@ -1,0 +1,45 @@
+{
+  "id": "PL002025",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Zgorzelecki",
+    "en": "Zgorzelecki",
+    "slug": "zgorzelecki-pl002025"
+  },
+  "code": {
+    "id": "PL002025",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL002",
+    "level": 1,
+    "name": {
+      "local": "Dolnośląskie",
+      "en": "Dolnoslaskie",
+      "slug": "dolnoslaskie-pl002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.163",
+    "lon": "15.076"
+  },
+  "metadata": {},
+  "source": {}
+}

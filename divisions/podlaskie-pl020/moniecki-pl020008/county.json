@@ -1,0 +1,45 @@
+{
+  "id": "PL020008",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Moniecki",
+    "en": "Moniecki",
+    "slug": "moniecki-pl020008"
+  },
+  "code": {
+    "id": "PL020008",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.446",
+    "lon": "22.817"
+  },
+  "metadata": {},
+  "source": {}
+}

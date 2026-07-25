@@ -1,0 +1,45 @@
+{
+  "id": "PL018006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kolbuszowski",
+    "en": "Kolbuszowski",
+    "slug": "kolbuszowski-pl018006"
+  },
+  "code": {
+    "id": "PL018006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL018",
+    "level": 1,
+    "name": {
+      "local": "Podkarpackie",
+      "en": "Podkarpackie",
+      "slug": "podkarpackie-pl018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.316",
+    "lon": "21.772"
+  },
+  "metadata": {},
+  "source": {}
+}

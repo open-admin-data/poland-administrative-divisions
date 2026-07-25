@@ -1,0 +1,45 @@
+{
+  "id": "PL030031",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Zlotowski",
+    "en": "Zlotowski",
+    "slug": "zlotowski-pl030031"
+  },
+  "code": {
+    "id": "PL030031",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL030",
+    "level": 1,
+    "name": {
+      "local": "Wielkopolskie",
+      "en": "Wielkopolskie",
+      "slug": "wielkopolskie-pl030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.413",
+    "lon": "16.878"
+  },
+  "metadata": {},
+  "source": {}
+}

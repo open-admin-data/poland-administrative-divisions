@@ -1,0 +1,45 @@
+{
+  "id": "PL002020",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Trzebnicki",
+    "en": "Trzebnicki",
+    "slug": "trzebnicki-pl002020"
+  },
+  "code": {
+    "id": "PL002020",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL002",
+    "level": 1,
+    "name": {
+      "local": "Dolnośląskie",
+      "en": "Dolnoslaskie",
+      "slug": "dolnoslaskie-pl002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.372",
+    "lon": "17.05"
+  },
+  "metadata": {},
+  "source": {}
+}

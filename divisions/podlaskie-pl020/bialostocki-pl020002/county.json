@@ -1,0 +1,45 @@
+{
+  "id": "PL020002",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bialostocki",
+    "en": "Bialostocki",
+    "slug": "bialostocki-pl020002"
+  },
+  "code": {
+    "id": "PL020002",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.117",
+    "lon": "23.557"
+  },
+  "metadata": {},
+  "source": {}
+}

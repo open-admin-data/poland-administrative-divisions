@@ -1,0 +1,45 @@
+{
+  "id": "PL008002",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Krosnienski",
+    "en": "Krosnienski",
+    "slug": "krosnienski-pl008002"
+  },
+  "code": {
+    "id": "PL008002",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL008",
+    "level": 1,
+    "name": {
+      "local": "Lubuskie",
+      "en": "Lubuskie",
+      "slug": "lubuskie-pl008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.01",
+    "lon": "14.993"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL028001",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bartoszycki",
+    "en": "Bartoszycki",
+    "slug": "bartoszycki-pl028001"
+  },
+  "code": {
+    "id": "PL028001",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL028",
+    "level": 1,
+    "name": {
+      "local": "Warmińsko-Mazurskie",
+      "en": "Warminsko-Mazurskie",
+      "slug": "warminsko-mazurskie-pl028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.213",
+    "lon": "20.568"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL016009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Opolski",
+    "en": "Opolski",
+    "slug": "opolski-pl016009"
+  },
+  "code": {
+    "id": "PL016009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL016",
+    "level": 1,
+    "name": {
+      "local": "Opolskie",
+      "en": "Opolskie",
+      "slug": "opolskie-pl016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.735",
+    "lon": "18.087"
+  },
+  "metadata": {},
+  "source": {}
+}

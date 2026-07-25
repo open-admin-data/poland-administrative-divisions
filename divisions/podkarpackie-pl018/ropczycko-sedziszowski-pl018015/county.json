@@ -1,0 +1,45 @@
+{
+  "id": "PL018015",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ropczycko-Sedziszowski",
+    "en": "Ropczycko-Sedziszowski",
+    "slug": "ropczycko-sedziszowski-pl018015"
+  },
+  "code": {
+    "id": "PL018015",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL018",
+    "level": 1,
+    "name": {
+      "local": "Podkarpackie",
+      "en": "Podkarpackie",
+      "slug": "podkarpackie-pl018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.048",
+    "lon": "21.651"
+  },
+  "metadata": {},
+  "source": {}
+}

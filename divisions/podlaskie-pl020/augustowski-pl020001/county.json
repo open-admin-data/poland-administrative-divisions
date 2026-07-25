@@ -1,0 +1,45 @@
+{
+  "id": "PL020001",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Augustowski",
+    "en": "Augustowski",
+    "slug": "augustowski-pl020001"
+  },
+  "code": {
+    "id": "PL020001",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.797",
+    "lon": "23.134"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL016001",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Brzeski",
+    "en": "Brzeski",
+    "slug": "brzeski-pl016001"
+  },
+  "code": {
+    "id": "PL016001",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL016",
+    "level": 1,
+    "name": {
+      "local": "Opolskie",
+      "en": "Opolskie",
+      "slug": "opolskie-pl016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.789",
+    "lon": "17.536"
+  },
+  "metadata": {},
+  "source": {}
+}

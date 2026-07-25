@@ -1,0 +1,45 @@
+{
+  "id": "PL004004",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Chelminski",
+    "en": "Chelminski",
+    "slug": "chelminski-pl004004"
+  },
+  "code": {
+    "id": "PL004004",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL004",
+    "level": 1,
+    "name": {
+      "local": "Kujawsko-Pomorskie",
+      "en": "Kujawsko-Pomorskie",
+      "slug": "kujawsko-pomorskie-pl004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.301",
+    "lon": "18.534"
+  },
+  "metadata": {},
+  "source": {}
+}

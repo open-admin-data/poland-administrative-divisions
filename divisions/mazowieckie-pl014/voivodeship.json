@@ -1,0 +1,33 @@
+{
+  "id": "PL014",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Mazowieckie",
+    "en": "Mazowieckie",
+    "slug": "mazowieckie-pl014"
+  },
+  "code": {
+    "id": "PL014",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.248",
+    "lon": "21.563"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/mazowieckie-pl014/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

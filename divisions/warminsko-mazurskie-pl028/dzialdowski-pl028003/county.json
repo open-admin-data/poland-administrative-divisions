@@ -1,0 +1,45 @@
+{
+  "id": "PL028003",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Dzialdowski",
+    "en": "Dzialdowski",
+    "slug": "dzialdowski-pl028003"
+  },
+  "code": {
+    "id": "PL028003",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL028",
+    "level": 1,
+    "name": {
+      "local": "Warmińsko-Mazurskie",
+      "en": "Warminsko-Mazurskie",
+      "slug": "warminsko-mazurskie-pl028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.289",
+    "lon": "19.981"
+  },
+  "metadata": {},
+  "source": {}
+}

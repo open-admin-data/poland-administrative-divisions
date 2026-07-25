@@ -1,0 +1,45 @@
+{
+  "id": "PL018004",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jaroslawski",
+    "en": "Jaroslawski",
+    "slug": "jaroslawski-pl018004"
+  },
+  "code": {
+    "id": "PL018004",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL018",
+    "level": 1,
+    "name": {
+      "local": "Podkarpackie",
+      "en": "Podkarpackie",
+      "slug": "podkarpackie-pl018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.025",
+    "lon": "22.799"
+  },
+  "metadata": {},
+  "source": {}
+}

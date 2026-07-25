@@ -1,0 +1,33 @@
+{
+  "id": "PL024",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Śląskie",
+    "en": "Slaskie",
+    "slug": "slaskie-pl024"
+  },
+  "code": {
+    "id": "PL024",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.247",
+    "lon": "18.846"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/slaskie-pl024/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

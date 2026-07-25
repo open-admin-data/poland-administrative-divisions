@@ -1,0 +1,1577 @@
+[
+  {
+    "id": "PL030001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chodzieski",
+      "en": "Chodzieski",
+      "slug": "chodzieski-pl030001"
+    },
+    "code": {
+      "id": "PL030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.953",
+      "lon": "16.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Czarnkowsko-Trzcianecki",
+      "en": "Czarnkowsko-Trzcianecki",
+      "slug": "czarnkowsko-trzcianecki-pl030002"
+    },
+    "code": {
+      "id": "PL030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.929",
+      "lon": "16.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gnieznienski",
+      "en": "Gnieznienski",
+      "slug": "gnieznienski-pl030003"
+    },
+    "code": {
+      "id": "PL030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.554",
+      "lon": "17.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gostynski",
+      "en": "Gostynski",
+      "slug": "gostynski-pl030004"
+    },
+    "code": {
+      "id": "PL030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.837",
+      "lon": "17.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Grodziski",
+      "en": "Grodziski",
+      "slug": "grodziski-pl030005"
+    },
+    "code": {
+      "id": "PL030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.16",
+      "lon": "16.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jarocinski",
+      "en": "Jarocinski",
+      "slug": "jarocinski-pl030006"
+    },
+    "code": {
+      "id": "PL030006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.01",
+      "lon": "17.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kaliski",
+      "en": "Kaliski",
+      "slug": "kaliski-pl030007"
+    },
+    "code": {
+      "id": "PL030007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.789",
+      "lon": "18.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kalisz",
+      "en": "Kalisz",
+      "slug": "kalisz-pl030061"
+    },
+    "code": {
+      "id": "PL030061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.747",
+      "lon": "18.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kepinski",
+      "en": "Kepinski",
+      "slug": "kepinski-pl030008"
+    },
+    "code": {
+      "id": "PL030008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.249",
+      "lon": "17.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kolski",
+      "en": "Kolski",
+      "slug": "kolski-pl030009"
+    },
+    "code": {
+      "id": "PL030009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.244",
+      "lon": "18.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Konin",
+      "en": "Konin",
+      "slug": "konin-pl030062"
+    },
+    "code": {
+      "id": "PL030062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.256",
+      "lon": "18.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koninski",
+      "en": "Koninski",
+      "slug": "koninski-pl030010"
+    },
+    "code": {
+      "id": "PL030010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.26",
+      "lon": "18.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koscianski",
+      "en": "Koscianski",
+      "slug": "koscianski-pl030011"
+    },
+    "code": {
+      "id": "PL030011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.066",
+      "lon": "16.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krotoszynski",
+      "en": "Krotoszynski",
+      "slug": "krotoszynski-pl030012"
+    },
+    "code": {
+      "id": "PL030012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.742",
+      "lon": "17.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Leszczynski",
+      "en": "Leszczynski",
+      "slug": "leszczynski-pl030013"
+    },
+    "code": {
+      "id": "PL030013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.85",
+      "lon": "16.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Leszno",
+      "en": "Leszno",
+      "slug": "leszno-pl030063"
+    },
+    "code": {
+      "id": "PL030063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.843",
+      "lon": "16.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Miedzychodzki",
+      "en": "Miedzychodzki",
+      "slug": "miedzychodzki-pl030014"
+    },
+    "code": {
+      "id": "PL030014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.602",
+      "lon": "16.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowotomyski",
+      "en": "Nowotomyski",
+      "slug": "nowotomyski-pl030015"
+    },
+    "code": {
+      "id": "PL030015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.348",
+      "lon": "16.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Obornicki",
+      "en": "Obornicki",
+      "slug": "obornicki-pl030016"
+    },
+    "code": {
+      "id": "PL030016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.717",
+      "lon": "16.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ostrowski",
+      "en": "Ostrowski",
+      "slug": "ostrowski-pl030017"
+    },
+    "code": {
+      "id": "PL030017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.608",
+      "lon": "17.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ostrzeszowski",
+      "en": "Ostrzeszowski",
+      "slug": "ostrzeszowski-pl030018"
+    },
+    "code": {
+      "id": "PL030018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.438",
+      "lon": "17.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pilski",
+      "en": "Pilski",
+      "slug": "pilski-pl030019"
+    },
+    "code": {
+      "id": "PL030019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.158",
+      "lon": "16.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030020",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pleszewski",
+      "en": "Pleszewski",
+      "slug": "pleszewski-pl030020"
+    },
+    "code": {
+      "id": "PL030020",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.925",
+      "lon": "17.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Poznan",
+      "en": "Poznan",
+      "slug": "poznan-pl030064"
+    },
+    "code": {
+      "id": "PL030064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.401",
+      "lon": "16.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030021",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Poznanski",
+      "en": "Poznanski",
+      "slug": "poznanski-pl030021"
+    },
+    "code": {
+      "id": "PL030021",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.416",
+      "lon": "17.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030022",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rawicki",
+      "en": "Rawicki",
+      "slug": "rawicki-pl030022"
+    },
+    "code": {
+      "id": "PL030022",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.645",
+      "lon": "16.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030023",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Slupecki",
+      "en": "Slupecki",
+      "slug": "slupecki-pl030023"
+    },
+    "code": {
+      "id": "PL030023",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.314",
+      "lon": "17.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030025",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sredzki",
+      "en": "Sredzki",
+      "slug": "sredzki-pl030025"
+    },
+    "code": {
+      "id": "PL030025",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.18",
+      "lon": "17.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030026",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sremski",
+      "en": "Sremski",
+      "slug": "sremski-pl030026"
+    },
+    "code": {
+      "id": "PL030026",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.061",
+      "lon": "17.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030024",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Szamotulski",
+      "en": "Szamotulski",
+      "slug": "szamotulski-pl030024"
+    },
+    "code": {
+      "id": "PL030024",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.584",
+      "lon": "16.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030027",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Turecki",
+      "en": "Turecki",
+      "slug": "turecki-pl030027"
+    },
+    "code": {
+      "id": "PL030027",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.996",
+      "lon": "18.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030028",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wagrowiecki",
+      "en": "Wagrowiecki",
+      "slug": "wagrowiecki-pl030028"
+    },
+    "code": {
+      "id": "PL030028",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.825",
+      "lon": "17.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030029",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wolsztynski",
+      "en": "Wolsztynski",
+      "slug": "wolsztynski-pl030029"
+    },
+    "code": {
+      "id": "PL030029",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.088",
+      "lon": "16.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030030",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wrzesinski",
+      "en": "Wrzesinski",
+      "slug": "wrzesinski-pl030030"
+    },
+    "code": {
+      "id": "PL030030",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.241",
+      "lon": "17.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL030031",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zlotowski",
+      "en": "Zlotowski",
+      "slug": "zlotowski-pl030031"
+    },
+    "code": {
+      "id": "PL030031",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL030",
+        "level": 1,
+        "name": {
+          "local": "Wielkopolskie",
+          "en": "Wielkopolskie",
+          "slug": "wielkopolskie-pl030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.413",
+      "lon": "16.878"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

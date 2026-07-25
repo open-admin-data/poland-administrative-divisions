@@ -1,0 +1,45 @@
+{
+  "id": "PL012062",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nowy Sacz",
+    "en": "Nowy Sacz",
+    "slug": "nowy-sacz-pl012062"
+  },
+  "code": {
+    "id": "PL012062",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.61",
+    "lon": "20.716"
+  },
+  "metadata": {},
+  "source": {}
+}

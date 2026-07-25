@@ -1,0 +1,45 @@
+{
+  "id": "PL010016",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tomaszowski",
+    "en": "Tomaszowski",
+    "slug": "tomaszowski-pl010016"
+  },
+  "code": {
+    "id": "PL010016",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.597",
+    "lon": "20.067"
+  },
+  "metadata": {},
+  "source": {}
+}

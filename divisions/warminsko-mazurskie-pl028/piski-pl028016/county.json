@@ -1,0 +1,45 @@
+{
+  "id": "PL028016",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Piski",
+    "en": "Piski",
+    "slug": "piski-pl028016"
+  },
+  "code": {
+    "id": "PL028016",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL028",
+    "level": 1,
+    "name": {
+      "local": "Warmińsko-Mazurskie",
+      "en": "Warminsko-Mazurskie",
+      "slug": "warminsko-mazurskie-pl028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.681",
+    "lon": "21.822"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL002061",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jelenia Gora",
+    "en": "Jelenia Gora",
+    "slug": "jelenia-gora-pl002061"
+  },
+  "code": {
+    "id": "PL002061",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL002",
+    "level": 1,
+    "name": {
+      "local": "Dolnośląskie",
+      "en": "Dolnoslaskie",
+      "slug": "dolnoslaskie-pl002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.85",
+    "lon": "15.654"
+  },
+  "metadata": {},
+  "source": {}
+}

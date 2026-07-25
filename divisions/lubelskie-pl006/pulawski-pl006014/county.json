@@ -1,0 +1,45 @@
+{
+  "id": "PL006014",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pulawski",
+    "en": "Pulawski",
+    "slug": "pulawski-pl006014"
+  },
+  "code": {
+    "id": "PL006014",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.419",
+    "lon": "22.07"
+  },
+  "metadata": {},
+  "source": {}
+}

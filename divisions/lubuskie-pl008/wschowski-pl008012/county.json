@@ -1,0 +1,45 @@
+{
+  "id": "PL008012",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Wschowski",
+    "en": "Wschowski",
+    "slug": "wschowski-pl008012"
+  },
+  "code": {
+    "id": "PL008012",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL008",
+    "level": 1,
+    "name": {
+      "local": "Lubuskie",
+      "en": "Lubuskie",
+      "slug": "lubuskie-pl008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.83",
+    "lon": "16.12"
+  },
+  "metadata": {},
+  "source": {}
+}

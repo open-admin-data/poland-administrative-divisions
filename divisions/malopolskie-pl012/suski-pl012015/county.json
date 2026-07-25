@@ -1,0 +1,45 @@
+{
+  "id": "PL012015",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Suski",
+    "en": "Suski",
+    "slug": "suski-pl012015"
+  },
+  "code": {
+    "id": "PL012015",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.702",
+    "lon": "19.648"
+  },
+  "metadata": {},
+  "source": {}
+}

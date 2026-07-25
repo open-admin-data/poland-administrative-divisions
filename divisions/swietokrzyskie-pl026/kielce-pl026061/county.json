@@ -1,0 +1,45 @@
+{
+  "id": "PL026061",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kielce",
+    "en": "Kielce",
+    "slug": "kielce-pl026061"
+  },
+  "code": {
+    "id": "PL026061",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL026",
+    "level": 1,
+    "name": {
+      "local": "Świętokrzyskie",
+      "en": "Swietokrzyskie",
+      "slug": "swietokrzyskie-pl026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.854",
+    "lon": "20.61"
+  },
+  "metadata": {},
+  "source": {}
+}

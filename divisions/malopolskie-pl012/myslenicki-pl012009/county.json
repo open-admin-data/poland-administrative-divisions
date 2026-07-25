@@ -1,0 +1,45 @@
+{
+  "id": "PL012009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Myslenicki",
+    "en": "Myslenicki",
+    "slug": "myslenicki-pl012009"
+  },
+  "code": {
+    "id": "PL012009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.775",
+    "lon": "19.976"
+  },
+  "metadata": {},
+  "source": {}
+}

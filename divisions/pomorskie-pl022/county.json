@@ -1,0 +1,902 @@
+[
+  {
+    "id": "PL022001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bytowski",
+      "en": "Bytowski",
+      "slug": "bytowski-pl022001"
+    },
+    "code": {
+      "id": "PL022001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.158",
+      "lon": "17.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chojnicki",
+      "en": "Chojnicki",
+      "slug": "chojnicki-pl022002"
+    },
+    "code": {
+      "id": "PL022002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.801",
+      "lon": "17.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Czluchowski",
+      "en": "Czluchowski",
+      "slug": "czluchowski-pl022003"
+    },
+    "code": {
+      "id": "PL022003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.751",
+      "lon": "17.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gdansk",
+      "en": "Gdansk",
+      "slug": "gdansk-pl022061"
+    },
+    "code": {
+      "id": "PL022061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.361",
+      "lon": "18.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gdanski",
+      "en": "Gdanski",
+      "slug": "gdanski-pl022004"
+    },
+    "code": {
+      "id": "PL022004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.225",
+      "lon": "18.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gdynia",
+      "en": "Gdynia",
+      "slug": "gdynia-pl022062"
+    },
+    "code": {
+      "id": "PL022062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.504",
+      "lon": "18.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kartuski",
+      "en": "Kartuski",
+      "slug": "kartuski-pl022005"
+    },
+    "code": {
+      "id": "PL022005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.327",
+      "lon": "18.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koscierski",
+      "en": "Koscierski",
+      "slug": "koscierski-pl022006"
+    },
+    "code": {
+      "id": "PL022006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.019",
+      "lon": "17.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kwidzynski",
+      "en": "Kwidzynski",
+      "slug": "kwidzynski-pl022007"
+    },
+    "code": {
+      "id": "PL022007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.747",
+      "lon": "19.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Leborski",
+      "en": "Leborski",
+      "slug": "leborski-pl022008"
+    },
+    "code": {
+      "id": "PL022008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.568",
+      "lon": "17.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Malborski",
+      "en": "Malborski",
+      "slug": "malborski-pl022009"
+    },
+    "code": {
+      "id": "PL022009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.063",
+      "lon": "19.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowodworski",
+      "en": "Nowodworski",
+      "slug": "nowodworski-pl022010"
+    },
+    "code": {
+      "id": "PL022010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.288",
+      "lon": "19.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pucki",
+      "en": "Pucki",
+      "slug": "pucki-pl022011"
+    },
+    "code": {
+      "id": "PL022011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.697",
+      "lon": "18.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Slupsk",
+      "en": "Slupsk",
+      "slug": "slupsk-pl022063"
+    },
+    "code": {
+      "id": "PL022063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.461",
+      "lon": "17.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Slupski",
+      "en": "Slupski",
+      "slug": "slupski-pl022012"
+    },
+    "code": {
+      "id": "PL022012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.422",
+      "lon": "17.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sopot",
+      "en": "Sopot",
+      "slug": "sopot-pl022064"
+    },
+    "code": {
+      "id": "PL022064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.442",
+      "lon": "18.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Starogardzki",
+      "en": "Starogardzki",
+      "slug": "starogardzki-pl022013"
+    },
+    "code": {
+      "id": "PL022013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.899",
+      "lon": "18.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sztumski",
+      "en": "Sztumski",
+      "slug": "sztumski-pl022016"
+    },
+    "code": {
+      "id": "PL022016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.901",
+      "lon": "19.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tczewski",
+      "en": "Tczewski",
+      "slug": "tczewski-pl022014"
+    },
+    "code": {
+      "id": "PL022014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.919",
+      "lon": "18.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL022015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wejherowski",
+      "en": "Wejherowski",
+      "slug": "wejherowski-pl022015"
+    },
+    "code": {
+      "id": "PL022015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL022",
+        "level": 1,
+        "name": {
+          "local": "Pomorskie",
+          "en": "Pomorskie",
+          "slug": "pomorskie-pl022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.617",
+      "lon": "18.102"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

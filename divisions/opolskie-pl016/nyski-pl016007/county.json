@@ -1,0 +1,45 @@
+{
+  "id": "PL016007",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nyski",
+    "en": "Nyski",
+    "slug": "nyski-pl016007"
+  },
+  "code": {
+    "id": "PL016007",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL016",
+    "level": 1,
+    "name": {
+      "local": "Opolskie",
+      "en": "Opolskie",
+      "slug": "opolskie-pl016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.461",
+    "lon": "17.304"
+  },
+  "metadata": {},
+  "source": {}
+}

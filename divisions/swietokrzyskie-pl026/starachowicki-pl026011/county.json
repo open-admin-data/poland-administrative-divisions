@@ -1,0 +1,45 @@
+{
+  "id": "PL026011",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Starachowicki",
+    "en": "Starachowicki",
+    "slug": "starachowicki-pl026011"
+  },
+  "code": {
+    "id": "PL026011",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL026",
+    "level": 1,
+    "name": {
+      "local": "Świętokrzyskie",
+      "en": "Swietokrzyskie",
+      "slug": "swietokrzyskie-pl026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.054",
+    "lon": "21.146"
+  },
+  "metadata": {},
+  "source": {}
+}

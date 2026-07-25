@@ -1,0 +1,45 @@
+{
+  "id": "PL014011",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Makowski",
+    "en": "Makowski",
+    "slug": "makowski-pl014011"
+  },
+  "code": {
+    "id": "PL014011",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL014",
+    "level": 1,
+    "name": {
+      "local": "Mazowieckie",
+      "en": "Mazowieckie",
+      "slug": "mazowieckie-pl014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.947",
+    "lon": "21.253"
+  },
+  "metadata": {},
+  "source": {}
+}

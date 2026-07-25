@@ -1,0 +1,45 @@
+{
+  "id": "PL004012",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Rypinski",
+    "en": "Rypinski",
+    "slug": "rypinski-pl004012"
+  },
+  "code": {
+    "id": "PL004012",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL004",
+    "level": 1,
+    "name": {
+      "local": "Kujawsko-Pomorskie",
+      "en": "Kujawsko-Pomorskie",
+      "slug": "kujawsko-pomorskie-pl004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.073",
+    "lon": "19.44"
+  },
+  "metadata": {},
+  "source": {}
+}

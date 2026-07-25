@@ -1,0 +1,45 @@
+{
+  "id": "PL030016",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Obornicki",
+    "en": "Obornicki",
+    "slug": "obornicki-pl030016"
+  },
+  "code": {
+    "id": "PL030016",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL030",
+    "level": 1,
+    "name": {
+      "local": "Wielkopolskie",
+      "en": "Wielkopolskie",
+      "slug": "wielkopolskie-pl030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.717",
+    "lon": "16.846"
+  },
+  "metadata": {},
+  "source": {}
+}

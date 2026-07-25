@@ -1,0 +1,45 @@
+{
+  "id": "PL004010",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nakielski",
+    "en": "Nakielski",
+    "slug": "nakielski-pl004010"
+  },
+  "code": {
+    "id": "PL004010",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL004",
+    "level": 1,
+    "name": {
+      "local": "Kujawsko-Pomorskie",
+      "en": "Kujawsko-Pomorskie",
+      "slug": "kujawsko-pomorskie-pl004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.095",
+    "lon": "17.597"
+  },
+  "metadata": {},
+  "source": {}
+}

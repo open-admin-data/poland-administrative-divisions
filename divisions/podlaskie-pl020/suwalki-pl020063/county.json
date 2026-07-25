@@ -1,0 +1,45 @@
+{
+  "id": "PL020063",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Suwalki",
+    "en": "Suwalki",
+    "slug": "suwalki-pl020063"
+  },
+  "code": {
+    "id": "PL020063",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.103",
+    "lon": "22.932"
+  },
+  "metadata": {},
+  "source": {}
+}

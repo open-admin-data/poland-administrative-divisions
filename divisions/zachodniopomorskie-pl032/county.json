@@ -1,0 +1,947 @@
+[
+  {
+    "id": "PL032001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bialogardzki",
+      "en": "Bialogardzki",
+      "slug": "bialogardzki-pl032001"
+    },
+    "code": {
+      "id": "PL032001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.977",
+      "lon": "16.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Choszczenski",
+      "en": "Choszczenski",
+      "slug": "choszczenski-pl032002"
+    },
+    "code": {
+      "id": "PL032002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.143",
+      "lon": "15.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Drawski",
+      "en": "Drawski",
+      "slug": "drawski-pl032003"
+    },
+    "code": {
+      "id": "PL032003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.448",
+      "lon": "16.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Goleniowski",
+      "en": "Goleniowski",
+      "slug": "goleniowski-pl032004"
+    },
+    "code": {
+      "id": "PL032004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.61",
+      "lon": "14.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gryficki",
+      "en": "Gryficki",
+      "slug": "gryficki-pl032005"
+    },
+    "code": {
+      "id": "PL032005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.943",
+      "lon": "15.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gryfinski",
+      "en": "Gryfinski",
+      "slug": "gryfinski-pl032006"
+    },
+    "code": {
+      "id": "PL032006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.023",
+      "lon": "14.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kamienski",
+      "en": "Kamienski",
+      "slug": "kamienski-pl032007"
+    },
+    "code": {
+      "id": "PL032007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.911",
+      "lon": "14.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kolobrzeski",
+      "en": "Kolobrzeski",
+      "slug": "kolobrzeski-pl032008"
+    },
+    "code": {
+      "id": "PL032008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.05",
+      "lon": "15.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koszalin",
+      "en": "Koszalin",
+      "slug": "koszalin-pl032061"
+    },
+    "code": {
+      "id": "PL032061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.207",
+      "lon": "16.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koszalinski",
+      "en": "Koszalinski",
+      "slug": "koszalinski-pl032009"
+    },
+    "code": {
+      "id": "PL032009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.11",
+      "lon": "16.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lobeski",
+      "en": "Lobeski",
+      "slug": "lobeski-pl032018"
+    },
+    "code": {
+      "id": "PL032018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.673",
+      "lon": "15.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mysliborski",
+      "en": "Mysliborski",
+      "slug": "mysliborski-pl032010"
+    },
+    "code": {
+      "id": "PL032010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.855",
+      "lon": "14.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Policki",
+      "en": "Policki",
+      "slug": "policki-pl032011"
+    },
+    "code": {
+      "id": "PL032011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.53",
+      "lon": "14.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pyrzycki",
+      "en": "Pyrzycki",
+      "slug": "pyrzycki-pl032012"
+    },
+    "code": {
+      "id": "PL032012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.128",
+      "lon": "14.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Slawienski",
+      "en": "Slawienski",
+      "slug": "slawienski-pl032013"
+    },
+    "code": {
+      "id": "PL032013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.379",
+      "lon": "16.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Stargardzki",
+      "en": "Stargardzki",
+      "slug": "stargardzki-pl032014"
+    },
+    "code": {
+      "id": "PL032014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.315",
+      "lon": "15.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Swidwinski",
+      "en": "Swidwinski",
+      "slug": "swidwinski-pl032016"
+    },
+    "code": {
+      "id": "PL032016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.808",
+      "lon": "15.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Swinoujscie",
+      "en": "Swinoujscie",
+      "slug": "swinoujscie-pl032063"
+    },
+    "code": {
+      "id": "PL032063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.847",
+      "lon": "14.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Szczecin",
+      "en": "Szczecin",
+      "slug": "szczecin-pl032062"
+    },
+    "code": {
+      "id": "PL032062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.43",
+      "lon": "14.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Szczecinecki",
+      "en": "Szczecinecki",
+      "slug": "szczecinecki-pl032015"
+    },
+    "code": {
+      "id": "PL032015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.738",
+      "lon": "16.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL032017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Walecki",
+      "en": "Walecki",
+      "slug": "walecki-pl032017"
+    },
+    "code": {
+      "id": "PL032017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL032",
+        "level": 1,
+        "name": {
+          "local": "Zachodniopomorskie",
+          "en": "Zachodniopomorskie",
+          "slug": "zachodniopomorskie-pl032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.237",
+      "lon": "16.319"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

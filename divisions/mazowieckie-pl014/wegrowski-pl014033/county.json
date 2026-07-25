@@ -1,0 +1,45 @@
+{
+  "id": "PL014033",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Wegrowski",
+    "en": "Wegrowski",
+    "slug": "wegrowski-pl014033"
+  },
+  "code": {
+    "id": "PL014033",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL014",
+    "level": 1,
+    "name": {
+      "local": "Mazowieckie",
+      "en": "Mazowieckie",
+      "slug": "mazowieckie-pl014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.456",
+    "lon": "21.946"
+  },
+  "metadata": {},
+  "source": {}
+}

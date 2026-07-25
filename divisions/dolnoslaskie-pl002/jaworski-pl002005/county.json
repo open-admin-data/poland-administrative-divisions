@@ -1,0 +1,45 @@
+{
+  "id": "PL002005",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jaworski",
+    "en": "Jaworski",
+    "slug": "jaworski-pl002005"
+  },
+  "code": {
+    "id": "PL002005",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL002",
+    "level": 1,
+    "name": {
+      "local": "Dolnośląskie",
+      "en": "Dolnoslaskie",
+      "slug": "dolnoslaskie-pl002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.001",
+    "lon": "16.092"
+  },
+  "metadata": {},
+  "source": {}
+}

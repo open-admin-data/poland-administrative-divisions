@@ -1,0 +1,45 @@
+{
+  "id": "PL016008",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Oleski",
+    "en": "Oleski",
+    "slug": "oleski-pl016008"
+  },
+  "code": {
+    "id": "PL016008",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL016",
+    "level": 1,
+    "name": {
+      "local": "Opolskie",
+      "en": "Opolskie",
+      "slug": "opolskie-pl016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.879",
+    "lon": "18.483"
+  },
+  "metadata": {},
+  "source": {}
+}

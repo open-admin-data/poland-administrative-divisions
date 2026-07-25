@@ -1,0 +1,45 @@
+{
+  "id": "PL020009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sejnenski",
+    "en": "Sejnenski",
+    "slug": "sejnenski-pl020009"
+  },
+  "code": {
+    "id": "PL020009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.096",
+    "lon": "23.312"
+  },
+  "metadata": {},
+  "source": {}
+}

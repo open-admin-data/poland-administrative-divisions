@@ -1,0 +1,45 @@
+{
+  "id": "PL010014",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sieradzki",
+    "en": "Sieradzki",
+    "slug": "sieradzki-pl010014"
+  },
+  "code": {
+    "id": "PL010014",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.603",
+    "lon": "18.613"
+  },
+  "metadata": {},
+  "source": {}
+}

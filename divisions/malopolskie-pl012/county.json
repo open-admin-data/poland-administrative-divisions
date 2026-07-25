@@ -1,0 +1,992 @@
+[
+  {
+    "id": "PL012001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bochenski",
+      "en": "Bochenski",
+      "slug": "bochenski-pl012001"
+    },
+    "code": {
+      "id": "PL012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.96",
+      "lon": "20.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Brzeski",
+      "en": "Brzeski",
+      "slug": "brzeski-pl012002"
+    },
+    "code": {
+      "id": "PL012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.981",
+      "lon": "20.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chrzanowski",
+      "en": "Chrzanowski",
+      "slug": "chrzanowski-pl012003"
+    },
+    "code": {
+      "id": "PL012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.121",
+      "lon": "19.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Dabrowski",
+      "en": "Dabrowski",
+      "slug": "dabrowski-pl012004"
+    },
+    "code": {
+      "id": "PL012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.231",
+      "lon": "20.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gorlicki",
+      "en": "Gorlicki",
+      "slug": "gorlicki-pl012005"
+    },
+    "code": {
+      "id": "PL012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.591",
+      "lon": "21.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krakow",
+      "en": "Krakow",
+      "slug": "krakow-pl012061"
+    },
+    "code": {
+      "id": "PL012061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.047",
+      "lon": "19.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krakowski",
+      "en": "Krakowski",
+      "slug": "krakowski-pl012006"
+    },
+    "code": {
+      "id": "PL012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.1",
+      "lon": "19.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Limanowski",
+      "en": "Limanowski",
+      "slug": "limanowski-pl012007"
+    },
+    "code": {
+      "id": "PL012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.683",
+      "lon": "20.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Miechowski",
+      "en": "Miechowski",
+      "slug": "miechowski-pl012008"
+    },
+    "code": {
+      "id": "PL012008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.39",
+      "lon": "20.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Myslenicki",
+      "en": "Myslenicki",
+      "slug": "myslenicki-pl012009"
+    },
+    "code": {
+      "id": "PL012009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.775",
+      "lon": "19.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowosadecki",
+      "en": "Nowosadecki",
+      "slug": "nowosadecki-pl012010"
+    },
+    "code": {
+      "id": "PL012010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.551",
+      "lon": "20.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowotarski",
+      "en": "Nowotarski",
+      "slug": "nowotarski-pl012011"
+    },
+    "code": {
+      "id": "PL012011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.493",
+      "lon": "19.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowy Sacz",
+      "en": "Nowy Sacz",
+      "slug": "nowy-sacz-pl012062"
+    },
+    "code": {
+      "id": "PL012062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.61",
+      "lon": "20.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Olkuski",
+      "en": "Olkuski",
+      "slug": "olkuski-pl012012"
+    },
+    "code": {
+      "id": "PL012012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.319",
+      "lon": "19.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Oswiecimski",
+      "en": "Oswiecimski",
+      "slug": "oswiecimski-pl012013"
+    },
+    "code": {
+      "id": "PL012013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.992",
+      "lon": "19.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Proszowicki",
+      "en": "Proszowicki",
+      "slug": "proszowicki-pl012014"
+    },
+    "code": {
+      "id": "PL012014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.217",
+      "lon": "20.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Suski",
+      "en": "Suski",
+      "slug": "suski-pl012015"
+    },
+    "code": {
+      "id": "PL012015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.702",
+      "lon": "19.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tarnow",
+      "en": "Tarnow",
+      "slug": "tarnow-pl012063"
+    },
+    "code": {
+      "id": "PL012063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.026",
+      "lon": "20.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tarnowski",
+      "en": "Tarnowski",
+      "slug": "tarnowski-pl012016"
+    },
+    "code": {
+      "id": "PL012016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.986",
+      "lon": "21.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tatrzanski",
+      "en": "Tatrzanski",
+      "slug": "tatrzanski-pl012017"
+    },
+    "code": {
+      "id": "PL012017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.304",
+      "lon": "19.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wadowicki",
+      "en": "Wadowicki",
+      "slug": "wadowicki-pl012018"
+    },
+    "code": {
+      "id": "PL012018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.895",
+      "lon": "19.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL012019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wielicki",
+      "en": "Wielicki",
+      "slug": "wielicki-pl012019"
+    },
+    "code": {
+      "id": "PL012019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL012",
+        "level": 1,
+        "name": {
+          "local": "Małopolskie",
+          "en": "Malopolskie",
+          "slug": "malopolskie-pl012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.982",
+      "lon": "20.173"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

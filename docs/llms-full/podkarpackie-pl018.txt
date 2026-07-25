@@ -1,0 +1,134 @@
+# Podkarpackie — Poland Administrative Divisions
+
+> 25 countys
+> Code: PL018
+> Coordinates: 49.911, 22.179
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Bieszczadzki
+
+Code: PL018001, Coordinates: 49.336, 22.63
+
+
+### Brzozowski
+
+Code: PL018002, Coordinates: 49.728, 22.094
+
+
+### Debicki
+
+Code: PL018003, Coordinates: 49.999, 21.311
+
+
+### Jaroslawski
+
+Code: PL018004, Coordinates: 50.025, 22.799
+
+
+### Jasielski
+
+Code: PL018005, Coordinates: 49.643, 21.466
+
+
+### Kolbuszowski
+
+Code: PL018006, Coordinates: 50.316, 21.772
+
+
+### Krosnienski
+
+Code: PL018007, Coordinates: 49.595, 21.762
+
+
+### Krosno
+
+Code: PL018061, Coordinates: 49.689, 21.753
+
+
+### Lancucki
+
+Code: PL018010, Coordinates: 50.087, 22.275
+
+
+### Leski
+
+Code: PL018021, Coordinates: 49.32, 22.355
+
+
+### Lezajski
+
+Code: PL018008, Coordinates: 50.262, 22.414
+
+
+### Lubaczowski
+
+Code: PL018009, Coordinates: 50.196, 23.145
+
+
+### Mielecki
+
+Code: PL018011, Coordinates: 50.314, 21.398
+
+
+### Nizanski
+
+Code: PL018012, Coordinates: 50.464, 22.269
+
+
+### Przemyski
+
+Code: PL018013, Coordinates: 49.761, 22.522
+
+
+### Przemysl
+
+Code: PL018062, Coordinates: 49.784, 22.788
+
+
+### Przeworski
+
+Code: PL018014, Coordinates: 50.089, 22.487
+
+
+### Ropczycko-Sedziszowski
+
+Code: PL018015, Coordinates: 50.048, 21.651
+
+
+### Rzeszow
+
+Code: PL018063, Coordinates: 50.005, 21.991
+
+
+### Rzeszowski
+
+Code: PL018016, Coordinates: 50.058, 21.861
+
+
+### Sanocki
+
+Code: PL018017, Coordinates: 49.43, 22.101
+
+
+### Stalowowolski
+
+Code: PL018018, Coordinates: 50.591, 22.092
+
+
+### Strzyzowski
+
+Code: PL018019, Coordinates: 49.877, 21.716
+
+
+### Tarnobrzeg
+
+Code: PL018064, Coordinates: 50.584, 21.712
+
+
+### Tarnobrzeski
+
+Code: PL018020, Coordinates: 50.563, 21.86
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "PL006015",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Radzynski",
+    "en": "Radzynski",
+    "slug": "radzynski-pl006015"
+  },
+  "code": {
+    "id": "PL006015",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.783",
+    "lon": "22.67"
+  },
+  "metadata": {},
+  "source": {}
+}

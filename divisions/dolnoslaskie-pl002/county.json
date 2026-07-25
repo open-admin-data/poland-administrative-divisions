@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "PL002001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Boleslawiecki",
+      "en": "Boleslawiecki",
+      "slug": "boleslawiecki-pl002001"
+    },
+    "code": {
+      "id": "PL002001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.322",
+      "lon": "15.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Dzierzoniowski",
+      "en": "Dzierzoniowski",
+      "slug": "dzierzoniowski-pl002002"
+    },
+    "code": {
+      "id": "PL002002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.735",
+      "lon": "16.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Glogowski",
+      "en": "Glogowski",
+      "slug": "glogowski-pl002003"
+    },
+    "code": {
+      "id": "PL002003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.671",
+      "lon": "16.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gorowski",
+      "en": "Gorowski",
+      "slug": "gorowski-pl002004"
+    },
+    "code": {
+      "id": "PL002004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.637",
+      "lon": "16.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jaworski",
+      "en": "Jaworski",
+      "slug": "jaworski-pl002005"
+    },
+    "code": {
+      "id": "PL002005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.001",
+      "lon": "16.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jelenia Gora",
+      "en": "Jelenia Gora",
+      "slug": "jelenia-gora-pl002061"
+    },
+    "code": {
+      "id": "PL002061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.85",
+      "lon": "15.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jeleniogorski",
+      "en": "Jeleniogorski",
+      "slug": "jeleniogorski-pl002006"
+    },
+    "code": {
+      "id": "PL002006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.875",
+      "lon": "15.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kamiennogorski",
+      "en": "Kamiennogorski",
+      "slug": "kamiennogorski-pl002007"
+    },
+    "code": {
+      "id": "PL002007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.756",
+      "lon": "15.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Klodzki",
+      "en": "Klodzki",
+      "slug": "klodzki-pl002008"
+    },
+    "code": {
+      "id": "PL002008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.389",
+      "lon": "16.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Legnica",
+      "en": "Legnica",
+      "slug": "legnica-pl002062"
+    },
+    "code": {
+      "id": "PL002062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.205",
+      "lon": "16.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Legnicki",
+      "en": "Legnicki",
+      "slug": "legnicki-pl002009"
+    },
+    "code": {
+      "id": "PL002009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.241",
+      "lon": "16.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lubanski",
+      "en": "Lubanski",
+      "slug": "lubanski-pl002010"
+    },
+    "code": {
+      "id": "PL002010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.045",
+      "lon": "15.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lubinski",
+      "en": "Lubinski",
+      "slug": "lubinski-pl002011"
+    },
+    "code": {
+      "id": "PL002011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.442",
+      "lon": "16.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lwowecki",
+      "en": "Lwowecki",
+      "slug": "lwowecki-pl002012"
+    },
+    "code": {
+      "id": "PL002012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.016",
+      "lon": "15.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Milicki",
+      "en": "Milicki",
+      "slug": "milicki-pl002013"
+    },
+    "code": {
+      "id": "PL002013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.508",
+      "lon": "17.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Olawski",
+      "en": "Olawski",
+      "slug": "olawski-pl002015"
+    },
+    "code": {
+      "id": "PL002015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.961",
+      "lon": "17.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Olesnicki",
+      "en": "Olesnicki",
+      "slug": "olesnicki-pl002014"
+    },
+    "code": {
+      "id": "PL002014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.255",
+      "lon": "17.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Polkowicki",
+      "en": "Polkowicki",
+      "slug": "polkowicki-pl002016"
+    },
+    "code": {
+      "id": "PL002016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.5",
+      "lon": "15.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sredzki",
+      "en": "Sredzki",
+      "slug": "sredzki-pl002018"
+    },
+    "code": {
+      "id": "PL002018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.126",
+      "lon": "16.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Strzelinski",
+      "en": "Strzelinski",
+      "slug": "strzelinski-pl002017"
+    },
+    "code": {
+      "id": "PL002017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.767",
+      "lon": "17.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Swidnicki",
+      "en": "Swidnicki",
+      "slug": "swidnicki-pl002019"
+    },
+    "code": {
+      "id": "PL002019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.87",
+      "lon": "16.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002020",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Trzebnicki",
+      "en": "Trzebnicki",
+      "slug": "trzebnicki-pl002020"
+    },
+    "code": {
+      "id": "PL002020",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.372",
+      "lon": "17.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002065",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Walbrzych",
+      "en": "Walbrzych",
+      "slug": "walbrzych-pl002065"
+    },
+    "code": {
+      "id": "PL002065",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.785",
+      "lon": "16.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002021",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Walbrzyski",
+      "en": "Walbrzyski",
+      "slug": "walbrzyski-pl002021"
+    },
+    "code": {
+      "id": "PL002021",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.757",
+      "lon": "16.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002022",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wolowski",
+      "en": "Wolowski",
+      "slug": "wolowski-pl002022"
+    },
+    "code": {
+      "id": "PL002022",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.372",
+      "lon": "16.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wroclaw",
+      "en": "Wroclaw",
+      "slug": "wroclaw-pl002064"
+    },
+    "code": {
+      "id": "PL002064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.127",
+      "lon": "16.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002023",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wroclawski",
+      "en": "Wroclawski",
+      "slug": "wroclawski-pl002023"
+    },
+    "code": {
+      "id": "PL002023",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.043",
+      "lon": "16.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002024",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zabkowicki",
+      "en": "Zabkowicki",
+      "slug": "zabkowicki-pl002024"
+    },
+    "code": {
+      "id": "PL002024",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.557",
+      "lon": "16.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002025",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zgorzelecki",
+      "en": "Zgorzelecki",
+      "slug": "zgorzelecki-pl002025"
+    },
+    "code": {
+      "id": "PL002025",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.163",
+      "lon": "15.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL002026",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zlotoryjski",
+      "en": "Zlotoryjski",
+      "slug": "zlotoryjski-pl002026"
+    },
+    "code": {
+      "id": "PL002026",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL002",
+        "level": 1,
+        "name": {
+          "local": "Dolnośląskie",
+          "en": "Dolnoslaskie",
+          "slug": "dolnoslaskie-pl002"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.091",
+      "lon": "15.878"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

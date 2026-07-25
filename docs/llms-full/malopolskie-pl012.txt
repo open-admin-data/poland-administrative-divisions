@@ -1,0 +1,119 @@
+# Malopolskie — Poland Administrative Divisions
+
+> 22 countys
+> Code: PL012
+> Coordinates: 49.85, 20.265
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Bochenski
+
+Code: PL012001, Coordinates: 49.96, 20.432
+
+
+### Brzeski
+
+Code: PL012002, Coordinates: 49.981, 20.659
+
+
+### Chrzanowski
+
+Code: PL012003, Coordinates: 50.121, 19.408
+
+
+### Dabrowski
+
+Code: PL012004, Coordinates: 50.231, 20.946
+
+
+### Gorlicki
+
+Code: PL012005, Coordinates: 49.591, 21.167
+
+
+### Krakow
+
+Code: PL012061, Coordinates: 50.047, 19.997
+
+
+### Krakowski
+
+Code: PL012006, Coordinates: 50.1, 19.708
+
+
+### Limanowski
+
+Code: PL012007, Coordinates: 49.683, 20.296
+
+
+### Miechowski
+
+Code: PL012008, Coordinates: 50.39, 20.078
+
+
+### Myslenicki
+
+Code: PL012009, Coordinates: 49.775, 19.976
+
+
+### Nowosadecki
+
+Code: PL012010, Coordinates: 49.551, 20.697
+
+
+### Nowotarski
+
+Code: PL012011, Coordinates: 49.493, 19.999
+
+
+### Nowy Sacz
+
+Code: PL012062, Coordinates: 49.61, 20.716
+
+
+### Olkuski
+
+Code: PL012012, Coordinates: 50.319, 19.649
+
+
+### Oswiecimski
+
+Code: PL012013, Coordinates: 49.992, 19.297
+
+
+### Proszowicki
+
+Code: PL012014, Coordinates: 50.217, 20.267
+
+
+### Suski
+
+Code: PL012015, Coordinates: 49.702, 19.648
+
+
+### Tarnow
+
+Code: PL012063, Coordinates: 50.026, 20.964
+
+
+### Tarnowski
+
+Code: PL012016, Coordinates: 49.986, 21.038
+
+
+### Tatrzanski
+
+Code: PL012017, Coordinates: 49.304, 19.964
+
+
+### Wadowicki
+
+Code: PL012018, Coordinates: 49.895, 19.535
+
+
+### Wielicki
+
+Code: PL012019, Coordinates: 49.982, 20.173
+
+

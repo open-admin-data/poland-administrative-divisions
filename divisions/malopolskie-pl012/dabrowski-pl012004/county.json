@@ -1,0 +1,45 @@
+{
+  "id": "PL012004",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Dabrowski",
+    "en": "Dabrowski",
+    "slug": "dabrowski-pl012004"
+  },
+  "code": {
+    "id": "PL012004",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.231",
+    "lon": "20.946"
+  },
+  "metadata": {},
+  "source": {}
+}

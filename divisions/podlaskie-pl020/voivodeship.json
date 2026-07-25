@@ -1,0 +1,33 @@
+{
+  "id": "PL020",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Podlaskie",
+    "en": "Podlaskie",
+    "slug": "podlaskie-pl020"
+  },
+  "code": {
+    "id": "PL020",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.346",
+    "lon": "22.709"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/podlaskie-pl020/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

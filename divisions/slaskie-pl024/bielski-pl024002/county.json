@@ -1,0 +1,45 @@
+{
+  "id": "PL024002",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bielski",
+    "en": "Bielski",
+    "slug": "bielski-pl024002"
+  },
+  "code": {
+    "id": "PL024002",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.806",
+    "lon": "18.909"
+  },
+  "metadata": {},
+  "source": {}
+}

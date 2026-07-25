@@ -1,0 +1,45 @@
+{
+  "id": "PL018005",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jasielski",
+    "en": "Jasielski",
+    "slug": "jasielski-pl018005"
+  },
+  "code": {
+    "id": "PL018005",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL018",
+    "level": 1,
+    "name": {
+      "local": "Podkarpackie",
+      "en": "Podkarpackie",
+      "slug": "podkarpackie-pl018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.643",
+    "lon": "21.466"
+  },
+  "metadata": {},
+  "source": {}
+}

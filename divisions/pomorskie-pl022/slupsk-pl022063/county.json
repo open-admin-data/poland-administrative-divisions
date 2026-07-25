@@ -1,0 +1,45 @@
+{
+  "id": "PL022063",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Slupsk",
+    "en": "Slupsk",
+    "slug": "slupsk-pl022063"
+  },
+  "code": {
+    "id": "PL022063",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL022",
+    "level": 1,
+    "name": {
+      "local": "Pomorskie",
+      "en": "Pomorskie",
+      "slug": "pomorskie-pl022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.461",
+    "lon": "17.028"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL012017",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tatrzanski",
+    "en": "Tatrzanski",
+    "slug": "tatrzanski-pl012017"
+  },
+  "code": {
+    "id": "PL012017",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.304",
+    "lon": "19.964"
+  },
+  "metadata": {},
+  "source": {}
+}

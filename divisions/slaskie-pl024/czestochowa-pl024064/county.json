@@ -1,0 +1,45 @@
+{
+  "id": "PL024064",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Czestochowa",
+    "en": "Czestochowa",
+    "slug": "czestochowa-pl024064"
+  },
+  "code": {
+    "id": "PL024064",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.81",
+    "lon": "19.125"
+  },
+  "metadata": {},
+  "source": {}
+}

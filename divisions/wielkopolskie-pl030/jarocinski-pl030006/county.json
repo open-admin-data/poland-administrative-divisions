@@ -1,0 +1,45 @@
+{
+  "id": "PL030006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jarocinski",
+    "en": "Jarocinski",
+    "slug": "jarocinski-pl030006"
+  },
+  "code": {
+    "id": "PL030006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL030",
+    "level": 1,
+    "name": {
+      "local": "Wielkopolskie",
+      "en": "Wielkopolskie",
+      "slug": "wielkopolskie-pl030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.01",
+    "lon": "17.514"
+  },
+  "metadata": {},
+  "source": {}
+}

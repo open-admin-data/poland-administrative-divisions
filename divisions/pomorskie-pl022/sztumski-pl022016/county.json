@@ -1,0 +1,45 @@
+{
+  "id": "PL022016",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sztumski",
+    "en": "Sztumski",
+    "slug": "sztumski-pl022016"
+  },
+  "code": {
+    "id": "PL022016",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL022",
+    "level": 1,
+    "name": {
+      "local": "Pomorskie",
+      "en": "Pomorskie",
+      "slug": "pomorskie-pl022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.901",
+    "lon": "19.261"
+  },
+  "metadata": {},
+  "source": {}
+}

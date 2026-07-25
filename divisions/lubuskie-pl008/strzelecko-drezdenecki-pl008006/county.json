@@ -1,0 +1,45 @@
+{
+  "id": "PL008006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Strzelecko-Drezdenecki",
+    "en": "Strzelecko-Drezdenecki",
+    "slug": "strzelecko-drezdenecki-pl008006"
+  },
+  "code": {
+    "id": "PL008006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL008",
+    "level": 1,
+    "name": {
+      "local": "Lubuskie",
+      "en": "Lubuskie",
+      "slug": "lubuskie-pl008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.912",
+    "lon": "15.648"
+  },
+  "metadata": {},
+  "source": {}
+}

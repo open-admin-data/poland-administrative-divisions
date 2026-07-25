@@ -1,0 +1,45 @@
+{
+  "id": "PL030011",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Koscianski",
+    "en": "Koscianski",
+    "slug": "koscianski-pl030011"
+  },
+  "code": {
+    "id": "PL030011",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL030",
+    "level": 1,
+    "name": {
+      "local": "Wielkopolskie",
+      "en": "Wielkopolskie",
+      "slug": "wielkopolskie-pl030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.066",
+    "lon": "16.668"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL020007",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lomzynski",
+    "en": "Lomzynski",
+    "slug": "lomzynski-pl020007"
+  },
+  "code": {
+    "id": "PL020007",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.208",
+    "lon": "22.278"
+  },
+  "metadata": {},
+  "source": {}
+}

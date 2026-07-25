@@ -1,0 +1,45 @@
+{
+  "id": "PL026006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Opatowski",
+    "en": "Opatowski",
+    "slug": "opatowski-pl026006"
+  },
+  "code": {
+    "id": "PL026006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL026",
+    "level": 1,
+    "name": {
+      "local": "Świętokrzyskie",
+      "en": "Swietokrzyskie",
+      "slug": "swietokrzyskie-pl026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.879",
+    "lon": "21.666"
+  },
+  "metadata": {},
+  "source": {}
+}

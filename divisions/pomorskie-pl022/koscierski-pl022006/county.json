@@ -1,0 +1,45 @@
+{
+  "id": "PL022006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Koscierski",
+    "en": "Koscierski",
+    "slug": "koscierski-pl022006"
+  },
+  "code": {
+    "id": "PL022006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL022",
+    "level": 1,
+    "name": {
+      "local": "Pomorskie",
+      "en": "Pomorskie",
+      "slug": "pomorskie-pl022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.019",
+    "lon": "17.971"
+  },
+  "metadata": {},
+  "source": {}
+}

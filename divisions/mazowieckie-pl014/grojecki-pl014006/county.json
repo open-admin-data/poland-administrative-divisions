@@ -1,0 +1,45 @@
+{
+  "id": "PL014006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Grojecki",
+    "en": "Grojecki",
+    "slug": "grojecki-pl014006"
+  },
+  "code": {
+    "id": "PL014006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL014",
+    "level": 1,
+    "name": {
+      "local": "Mazowieckie",
+      "en": "Mazowieckie",
+      "slug": "mazowieckie-pl014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.757",
+    "lon": "20.87"
+  },
+  "metadata": {},
+  "source": {}
+}

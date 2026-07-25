@@ -1,0 +1,33 @@
+{
+  "id": "PL004",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Kujawsko-Pomorskie",
+    "en": "Kujawsko-Pomorskie",
+    "slug": "kujawsko-pomorskie-pl004"
+  },
+  "code": {
+    "id": "PL004",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.056",
+    "lon": "18.488"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/kujawsko-pomorskie-pl004/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

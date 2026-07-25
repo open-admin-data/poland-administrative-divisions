@@ -1,0 +1,45 @@
+{
+  "id": "PL032062",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Szczecin",
+    "en": "Szczecin",
+    "slug": "szczecin-pl032062"
+  },
+  "code": {
+    "id": "PL032062",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL032",
+    "level": 1,
+    "name": {
+      "local": "Zachodniopomorskie",
+      "en": "Zachodniopomorskie",
+      "slug": "zachodniopomorskie-pl032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.43",
+    "lon": "14.593"
+  },
+  "metadata": {},
+  "source": {}
+}

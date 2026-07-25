@@ -1,0 +1,18 @@
+# Data from Open Admin Data (https://openadmindata.org/pl/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/poland-administrative-divisions
+id,level,level_name.local,level_name.en,name.local,name.en,name.slug,code.id,code.iso,parent.id,parent.name.local,parent.name.en,children_count.voivodeship,children_count.county,zip_codes,geo.lat,geo.lon,source_url
+PL002,1,Województwo,Voivodeship,Dolnośląskie,Dolnoslaskie,dolnoslaskie-pl002,PL002,,,,,,30,,50.951,16.361,https://openadmindata.org/pl/voivodeships/dolnoslaskie-pl002/
+PL004,1,Województwo,Voivodeship,Kujawsko-Pomorskie,Kujawsko-Pomorskie,kujawsko-pomorskie-pl004,PL004,,,,,,23,,53.056,18.488,https://openadmindata.org/pl/voivodeships/kujawsko-pomorskie-pl004/
+PL006,1,Województwo,Voivodeship,Lubelskie,Lubelskie,lubelskie-pl006,PL006,,,,,,24,,51.27,22.779,https://openadmindata.org/pl/voivodeships/lubelskie-pl006/
+PL008,1,Województwo,Voivodeship,Lubuskie,Lubuskie,lubuskie-pl008,PL008,,,,,,14,,52.244,15.281,https://openadmindata.org/pl/voivodeships/lubuskie-pl008/
+PL010,1,Województwo,Voivodeship,Łódzkie,Lodzkie,lodzkie-pl010,PL010,,,,,,24,,51.619,19.394,https://openadmindata.org/pl/voivodeships/lodzkie-pl010/
+PL012,1,Województwo,Voivodeship,Małopolskie,Malopolskie,malopolskie-pl012,PL012,,,,,,22,,49.85,20.265,https://openadmindata.org/pl/voivodeships/malopolskie-pl012/
+PL014,1,Województwo,Voivodeship,Mazowieckie,Mazowieckie,mazowieckie-pl014,PL014,,,,,,42,,52.248,21.563,https://openadmindata.org/pl/voivodeships/mazowieckie-pl014/
+PL016,1,Województwo,Voivodeship,Opolskie,Opolskie,opolskie-pl016,PL016,,,,,,12,,50.584,17.851,https://openadmindata.org/pl/voivodeships/opolskie-pl016/
+PL018,1,Województwo,Voivodeship,Podkarpackie,Podkarpackie,podkarpackie-pl018,PL018,,,,,,25,,49.911,22.179,https://openadmindata.org/pl/voivodeships/podkarpackie-pl018/
+PL020,1,Województwo,Voivodeship,Podlaskie,Podlaskie,podlaskie-pl020,PL020,,,,,,17,,53.346,22.709,https://openadmindata.org/pl/voivodeships/podlaskie-pl020/
+PL022,1,Województwo,Voivodeship,Pomorskie,Pomorskie,pomorskie-pl022,PL022,,,,,,20,,54.163,18.001,https://openadmindata.org/pl/voivodeships/pomorskie-pl022/
+PL024,1,Województwo,Voivodeship,Śląskie,Slaskie,slaskie-pl024,PL024,,,,,,36,,50.247,18.846,https://openadmindata.org/pl/voivodeships/slaskie-pl024/
+PL026,1,Województwo,Voivodeship,Świętokrzyskie,Swietokrzyskie,swietokrzyskie-pl026,PL026,,,,,,14,,50.764,20.799,https://openadmindata.org/pl/voivodeships/swietokrzyskie-pl026/
+PL028,1,Województwo,Voivodeship,Warmińsko-Mazurskie,Warminsko-Mazurskie,warminsko-mazurskie-pl028,PL028,,,,,,21,,53.796,21.104,https://openadmindata.org/pl/voivodeships/warminsko-mazurskie-pl028/
+PL030,1,Województwo,Voivodeship,Wielkopolskie,Wielkopolskie,wielkopolskie-pl030,PL030,,,,,,35,,52.38,17.314,https://openadmindata.org/pl/voivodeships/wielkopolskie-pl030/
+PL032,1,Województwo,Voivodeship,Zachodniopomorskie,Zachodniopomorskie,zachodniopomorskie-pl032,PL032,,,,,,21,,53.598,15.528,https://openadmindata.org/pl/voivodeships/zachodniopomorskie-pl032/

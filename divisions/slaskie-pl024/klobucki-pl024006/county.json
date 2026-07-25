@@ -1,0 +1,45 @@
+{
+  "id": "PL024006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Klobucki",
+    "en": "Klobucki",
+    "slug": "klobucki-pl024006"
+  },
+  "code": {
+    "id": "PL024006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.933",
+    "lon": "18.866"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL006020",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Zamojski",
+    "en": "Zamojski",
+    "slug": "zamojski-pl006020"
+  },
+  "code": {
+    "id": "PL006020",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.692",
+    "lon": "23.207"
+  },
+  "metadata": {},
+  "source": {}
+}

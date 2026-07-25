@@ -1,0 +1,45 @@
+{
+  "id": "PL024067",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jastrzebie-Zdroj",
+    "en": "Jastrzebie-Zdroj",
+    "slug": "jastrzebie-zdroj-pl024067"
+  },
+  "code": {
+    "id": "PL024067",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.961",
+    "lon": "18.6"
+  },
+  "metadata": {},
+  "source": {}
+}

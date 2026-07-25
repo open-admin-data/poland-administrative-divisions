@@ -1,0 +1,45 @@
+{
+  "id": "PL032009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Koszalinski",
+    "en": "Koszalinski",
+    "slug": "koszalinski-pl032009"
+  },
+  "code": {
+    "id": "PL032009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL032",
+    "level": 1,
+    "name": {
+      "local": "Zachodniopomorskie",
+      "en": "Zachodniopomorskie",
+      "slug": "zachodniopomorskie-pl032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.11",
+    "lon": "16.44"
+  },
+  "metadata": {},
+  "source": {}
+}

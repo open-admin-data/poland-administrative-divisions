@@ -1,0 +1,79 @@
+# Lubuskie — Poland Administrative Divisions
+
+> 14 countys
+> Code: PL008
+> Coordinates: 52.244, 15.281
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Gorzow Wielkopolski
+
+Code: PL008061, Coordinates: 52.731, 15.211
+
+
+### Gorzowski
+
+Code: PL008001, Coordinates: 52.739, 14.966
+
+
+### Krosnienski
+
+Code: PL008002, Coordinates: 52.01, 14.993
+
+
+### Miedzyrzecki
+
+Code: PL008003, Coordinates: 52.499, 15.58
+
+
+### Nowosolski
+
+Code: PL008004, Coordinates: 51.842, 15.704
+
+
+### Slubicki
+
+Code: PL008005, Coordinates: 52.323, 14.739
+
+
+### Strzelecko-Drezdenecki
+
+Code: PL008006, Coordinates: 52.912, 15.648
+
+
+### Sulecinski
+
+Code: PL008007, Coordinates: 52.428, 15.18
+
+
+### Swiebodzinski
+
+Code: PL008008, Coordinates: 52.237, 15.507
+
+
+### Wschowski
+
+Code: PL008012, Coordinates: 51.83, 16.12
+
+
+### Zaganski
+
+Code: PL008010, Coordinates: 51.595, 15.528
+
+
+### Zarski
+
+Code: PL008011, Coordinates: 51.628, 15.007
+
+
+### Zielona Gora
+
+Code: PL008062, Coordinates: 51.928, 15.549
+
+
+### Zielonogorski
+
+Code: PL008009, Coordinates: 51.976, 15.763
+
+

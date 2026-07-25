@@ -1,0 +1,45 @@
+{
+  "id": "PL010003",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Laski",
+    "en": "Laski",
+    "slug": "laski-pl010003"
+  },
+  "code": {
+    "id": "PL010003",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.559",
+    "lon": "19.137"
+  },
+  "metadata": {},
+  "source": {}
+}

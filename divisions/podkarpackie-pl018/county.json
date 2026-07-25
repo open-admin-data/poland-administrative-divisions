@@ -1,0 +1,1127 @@
+[
+  {
+    "id": "PL018001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bieszczadzki",
+      "en": "Bieszczadzki",
+      "slug": "bieszczadzki-pl018001"
+    },
+    "code": {
+      "id": "PL018001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.336",
+      "lon": "22.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Brzozowski",
+      "en": "Brzozowski",
+      "slug": "brzozowski-pl018002"
+    },
+    "code": {
+      "id": "PL018002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.728",
+      "lon": "22.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Debicki",
+      "en": "Debicki",
+      "slug": "debicki-pl018003"
+    },
+    "code": {
+      "id": "PL018003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.999",
+      "lon": "21.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jaroslawski",
+      "en": "Jaroslawski",
+      "slug": "jaroslawski-pl018004"
+    },
+    "code": {
+      "id": "PL018004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.025",
+      "lon": "22.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jasielski",
+      "en": "Jasielski",
+      "slug": "jasielski-pl018005"
+    },
+    "code": {
+      "id": "PL018005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.643",
+      "lon": "21.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kolbuszowski",
+      "en": "Kolbuszowski",
+      "slug": "kolbuszowski-pl018006"
+    },
+    "code": {
+      "id": "PL018006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.316",
+      "lon": "21.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krosnienski",
+      "en": "Krosnienski",
+      "slug": "krosnienski-pl018007"
+    },
+    "code": {
+      "id": "PL018007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.595",
+      "lon": "21.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krosno",
+      "en": "Krosno",
+      "slug": "krosno-pl018061"
+    },
+    "code": {
+      "id": "PL018061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.689",
+      "lon": "21.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lancucki",
+      "en": "Lancucki",
+      "slug": "lancucki-pl018010"
+    },
+    "code": {
+      "id": "PL018010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.087",
+      "lon": "22.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018021",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Leski",
+      "en": "Leski",
+      "slug": "leski-pl018021"
+    },
+    "code": {
+      "id": "PL018021",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.32",
+      "lon": "22.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lezajski",
+      "en": "Lezajski",
+      "slug": "lezajski-pl018008"
+    },
+    "code": {
+      "id": "PL018008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.262",
+      "lon": "22.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lubaczowski",
+      "en": "Lubaczowski",
+      "slug": "lubaczowski-pl018009"
+    },
+    "code": {
+      "id": "PL018009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.196",
+      "lon": "23.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mielecki",
+      "en": "Mielecki",
+      "slug": "mielecki-pl018011"
+    },
+    "code": {
+      "id": "PL018011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.314",
+      "lon": "21.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nizanski",
+      "en": "Nizanski",
+      "slug": "nizanski-pl018012"
+    },
+    "code": {
+      "id": "PL018012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.464",
+      "lon": "22.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Przemyski",
+      "en": "Przemyski",
+      "slug": "przemyski-pl018013"
+    },
+    "code": {
+      "id": "PL018013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.761",
+      "lon": "22.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Przemysl",
+      "en": "Przemysl",
+      "slug": "przemysl-pl018062"
+    },
+    "code": {
+      "id": "PL018062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.784",
+      "lon": "22.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Przeworski",
+      "en": "Przeworski",
+      "slug": "przeworski-pl018014"
+    },
+    "code": {
+      "id": "PL018014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.089",
+      "lon": "22.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ropczycko-Sedziszowski",
+      "en": "Ropczycko-Sedziszowski",
+      "slug": "ropczycko-sedziszowski-pl018015"
+    },
+    "code": {
+      "id": "PL018015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.048",
+      "lon": "21.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rzeszow",
+      "en": "Rzeszow",
+      "slug": "rzeszow-pl018063"
+    },
+    "code": {
+      "id": "PL018063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.005",
+      "lon": "21.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rzeszowski",
+      "en": "Rzeszowski",
+      "slug": "rzeszowski-pl018016"
+    },
+    "code": {
+      "id": "PL018016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.058",
+      "lon": "21.861"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sanocki",
+      "en": "Sanocki",
+      "slug": "sanocki-pl018017"
+    },
+    "code": {
+      "id": "PL018017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.43",
+      "lon": "22.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Stalowowolski",
+      "en": "Stalowowolski",
+      "slug": "stalowowolski-pl018018"
+    },
+    "code": {
+      "id": "PL018018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.591",
+      "lon": "22.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Strzyzowski",
+      "en": "Strzyzowski",
+      "slug": "strzyzowski-pl018019"
+    },
+    "code": {
+      "id": "PL018019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.877",
+      "lon": "21.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tarnobrzeg",
+      "en": "Tarnobrzeg",
+      "slug": "tarnobrzeg-pl018064"
+    },
+    "code": {
+      "id": "PL018064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.584",
+      "lon": "21.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL018020",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tarnobrzeski",
+      "en": "Tarnobrzeski",
+      "slug": "tarnobrzeski-pl018020"
+    },
+    "code": {
+      "id": "PL018020",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL018",
+        "level": 1,
+        "name": {
+          "local": "Podkarpackie",
+          "en": "Podkarpackie",
+          "slug": "podkarpackie-pl018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.563",
+      "lon": "21.86"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

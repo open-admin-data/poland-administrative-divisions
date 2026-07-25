@@ -1,0 +1,45 @@
+{
+  "id": "PL022064",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sopot",
+    "en": "Sopot",
+    "slug": "sopot-pl022064"
+  },
+  "code": {
+    "id": "PL022064",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL022",
+    "level": 1,
+    "name": {
+      "local": "Pomorskie",
+      "en": "Pomorskie",
+      "slug": "pomorskie-pl022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.442",
+    "lon": "18.543"
+  },
+  "metadata": {},
+  "source": {}
+}

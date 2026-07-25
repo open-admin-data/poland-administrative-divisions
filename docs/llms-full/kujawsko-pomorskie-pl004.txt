@@ -1,0 +1,124 @@
+# Kujawsko-Pomorskie — Poland Administrative Divisions
+
+> 23 countys
+> Code: PL004
+> Coordinates: 53.056, 18.488
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Aleksandrowski
+
+Code: PL004001, Coordinates: 52.784, 18.781
+
+
+### Brodnicki
+
+Code: PL004002, Coordinates: 53.27, 19.413
+
+
+### Bydgoski
+
+Code: PL004003, Coordinates: 53.192, 17.826
+
+
+### Bydgoszcz
+
+Code: PL004061, Coordinates: 53.13, 18.03
+
+
+### Chelminski
+
+Code: PL004004, Coordinates: 53.301, 18.534
+
+
+### Golubsko-Dobrzynski
+
+Code: PL004005, Coordinates: 53.099, 19.025
+
+
+### Grudziadz
+
+Code: PL004062, Coordinates: 53.473, 18.762
+
+
+### Grudziadzki
+
+Code: PL004006, Coordinates: 53.472, 19.012
+
+
+### Inowroclawski
+
+Code: PL004007, Coordinates: 52.765, 18.324
+
+
+### Lipnowski
+
+Code: PL004008, Coordinates: 52.816, 19.17
+
+
+### Mogilenski
+
+Code: PL004009, Coordinates: 52.662, 18.023
+
+
+### Nakielski
+
+Code: PL004010, Coordinates: 53.095, 17.597
+
+
+### Radziejowski
+
+Code: PL004011, Coordinates: 52.574, 18.597
+
+
+### Rypinski
+
+Code: PL004012, Coordinates: 53.073, 19.44
+
+
+### Sepolenski
+
+Code: PL004013, Coordinates: 53.443, 17.533
+
+
+### Swiecki
+
+Code: PL004014, Coordinates: 53.481, 18.427
+
+
+### Torun
+
+Code: PL004063, Coordinates: 53.015, 18.597
+
+
+### Torunski
+
+Code: PL004015, Coordinates: 53.047, 18.459
+
+
+### Tucholski
+
+Code: PL004016, Coordinates: 53.582, 17.925
+
+
+### Wabrzeski
+
+Code: PL004017, Coordinates: 53.282, 18.928
+
+
+### Wloclawek
+
+Code: PL004064, Coordinates: 52.666, 19.096
+
+
+### Wloclawski
+
+Code: PL004018, Coordinates: 52.557, 19.042
+
+
+### Zninski
+
+Code: PL004019, Coordinates: 52.822, 17.691
+
+

@@ -1,0 +1,45 @@
+{
+  "id": "PL004015",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Torunski",
+    "en": "Torunski",
+    "slug": "torunski-pl004015"
+  },
+  "code": {
+    "id": "PL004015",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL004",
+    "level": 1,
+    "name": {
+      "local": "Kujawsko-Pomorskie",
+      "en": "Kujawsko-Pomorskie",
+      "slug": "kujawsko-pomorskie-pl004"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.047",
+    "lon": "18.459"
+  },
+  "metadata": {},
+  "source": {}
+}

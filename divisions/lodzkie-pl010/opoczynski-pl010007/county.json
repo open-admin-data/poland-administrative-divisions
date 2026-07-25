@@ -1,0 +1,45 @@
+{
+  "id": "PL010007",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Opoczynski",
+    "en": "Opoczynski",
+    "slug": "opoczynski-pl010007"
+  },
+  "code": {
+    "id": "PL010007",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.393",
+    "lon": "20.15"
+  },
+  "metadata": {},
+  "source": {}
+}

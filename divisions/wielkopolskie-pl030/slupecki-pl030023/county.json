@@ -1,0 +1,45 @@
+{
+  "id": "PL030023",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Slupecki",
+    "en": "Slupecki",
+    "slug": "slupecki-pl030023"
+  },
+  "code": {
+    "id": "PL030023",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL030",
+    "level": 1,
+    "name": {
+      "local": "Wielkopolskie",
+      "en": "Wielkopolskie",
+      "slug": "wielkopolskie-pl030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.314",
+    "lon": "17.888"
+  },
+  "metadata": {},
+  "source": {}
+}

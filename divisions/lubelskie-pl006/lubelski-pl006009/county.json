@@ -1,0 +1,45 @@
+{
+  "id": "PL006009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lubelski",
+    "en": "Lubelski",
+    "slug": "lubelski-pl006009"
+  },
+  "code": {
+    "id": "PL006009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.134",
+    "lon": "22.438"
+  },
+  "metadata": {},
+  "source": {}
+}

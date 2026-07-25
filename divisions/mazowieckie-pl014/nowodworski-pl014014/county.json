@@ -1,0 +1,45 @@
+{
+  "id": "PL014014",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nowodworski",
+    "en": "Nowodworski",
+    "slug": "nowodworski-pl014014"
+  },
+  "code": {
+    "id": "PL014014",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL014",
+    "level": 1,
+    "name": {
+      "local": "Mazowieckie",
+      "en": "Mazowieckie",
+      "slug": "mazowieckie-pl014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.466",
+    "lon": "20.667"
+  },
+  "metadata": {},
+  "source": {}
+}

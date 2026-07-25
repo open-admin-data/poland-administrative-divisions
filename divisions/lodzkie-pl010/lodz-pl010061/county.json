@@ -1,0 +1,45 @@
+{
+  "id": "PL010061",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lodz",
+    "en": "Lodz",
+    "slug": "lodz-pl010061"
+  },
+  "code": {
+    "id": "PL010061",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.773",
+    "lon": "19.479"
+  },
+  "metadata": {},
+  "source": {}
+}

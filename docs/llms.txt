@@ -1,0 +1,82 @@
+# Poland Administrative Divisions
+
+> Open dataset of Poland's administrative hierarchy:
+> 16 voivodeships, 380 countys.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total voivodeships: 16
+- Total countys: 380
+- Coordinates: included (all levels)
+- Last updated: 2026-07-25
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All voivodeships (JSON)](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/data/all-voivodeship.json)
+- [All countys (JSON)](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/data/all-county.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/data/schema.json)
+
+## Browse by Voivodeship
+
+- [Dolnoslaskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/dolnoslaskie-pl002/) — 30 countys
+- [Kujawsko-Pomorskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/kujawsko-pomorskie-pl004/) — 23 countys
+- [Lubelskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/lubelskie-pl006/) — 24 countys
+- [Lubuskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/lubuskie-pl008/) — 14 countys
+- [Lodzkie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/lodzkie-pl010/) — 24 countys
+- [Malopolskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/malopolskie-pl012/) — 22 countys
+- [Mazowieckie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/mazowieckie-pl014/) — 42 countys
+- [Opolskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/opolskie-pl016/) — 12 countys
+- [Podkarpackie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/podkarpackie-pl018/) — 25 countys
+- [Podlaskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/podlaskie-pl020/) — 17 countys
+- [Pomorskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/pomorskie-pl022/) — 20 countys
+- [Slaskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/slaskie-pl024/) — 36 countys
+- [Swietokrzyskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/swietokrzyskie-pl026/) — 14 countys
+- [Warminsko-Mazurskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/warminsko-mazurskie-pl028/) — 21 countys
+- [Wielkopolskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/wielkopolskie-pl030/) — 35 countys
+- [Zachodniopomorskie](https://github.com/open-admin-data/poland-administrative-divisions/tree/main/divisions/zachodniopomorskie-pl032/) — 21 countys
+
+## Per-Voivodeship Full Data
+
+- [Dolnoslaskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/dolnoslaskie-pl002.txt)
+- [Kujawsko-Pomorskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/kujawsko-pomorskie-pl004.txt)
+- [Lubelskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/lubelskie-pl006.txt)
+- [Lubuskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/lubuskie-pl008.txt)
+- [Lodzkie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/lodzkie-pl010.txt)
+- [Malopolskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/malopolskie-pl012.txt)
+- [Mazowieckie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/mazowieckie-pl014.txt)
+- [Opolskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/opolskie-pl016.txt)
+- [Podkarpackie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/podkarpackie-pl018.txt)
+- [Podlaskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/podlaskie-pl020.txt)
+- [Pomorskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/pomorskie-pl022.txt)
+- [Slaskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/slaskie-pl024.txt)
+- [Swietokrzyskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/swietokrzyskie-pl026.txt)
+- [Warminsko-Mazurskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/warminsko-mazurskie-pl028.txt)
+- [Wielkopolskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/wielkopolskie-pl030.txt)
+- [Zachodniopomorskie](https://raw.githubusercontent.com/open-admin-data/poland-administrative-divisions/main/docs/llms-full/zachodniopomorskie-pl032.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (voivodeship), 2 (county)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Poland Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/poland-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

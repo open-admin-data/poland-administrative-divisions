@@ -1,0 +1,114 @@
+# Zachodniopomorskie — Poland Administrative Divisions
+
+> 21 countys
+> Code: PL032
+> Coordinates: 53.598, 15.528
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Bialogardzki
+
+Code: PL032001, Coordinates: 53.977, 16.055
+
+
+### Choszczenski
+
+Code: PL032002, Coordinates: 53.143, 15.65
+
+
+### Drawski
+
+Code: PL032003, Coordinates: 53.448, 16.04
+
+
+### Goleniowski
+
+Code: PL032004, Coordinates: 53.61, 14.897
+
+
+### Gryficki
+
+Code: PL032005, Coordinates: 53.943, 15.26
+
+
+### Gryfinski
+
+Code: PL032006, Coordinates: 53.023, 14.506
+
+
+### Kamienski
+
+Code: PL032007, Coordinates: 53.911, 14.712
+
+
+### Kolobrzeski
+
+Code: PL032008, Coordinates: 54.05, 15.6
+
+
+### Koszalin
+
+Code: PL032061, Coordinates: 54.207, 16.218
+
+
+### Koszalinski
+
+Code: PL032009, Coordinates: 54.11, 16.44
+
+
+### Lobeski
+
+Code: PL032018, Coordinates: 53.673, 15.516
+
+
+### Mysliborski
+
+Code: PL032010, Coordinates: 52.855, 14.775
+
+
+### Policki
+
+Code: PL032011, Coordinates: 53.53, 14.437
+
+
+### Pyrzycki
+
+Code: PL032012, Coordinates: 53.128, 14.97
+
+
+### Slawienski
+
+Code: PL032013, Coordinates: 54.379, 16.582
+
+
+### Stargardzki
+
+Code: PL032014, Coordinates: 53.315, 15.165
+
+
+### Swidwinski
+
+Code: PL032016, Coordinates: 53.808, 15.882
+
+
+### Swinoujscie
+
+Code: PL032063, Coordinates: 53.847, 14.326
+
+
+### Szczecin
+
+Code: PL032062, Coordinates: 53.43, 14.593
+
+
+### Szczecinecki
+
+Code: PL032015, Coordinates: 53.738, 16.56
+
+
+### Walecki
+
+Code: PL032017, Coordinates: 53.237, 16.319
+
+

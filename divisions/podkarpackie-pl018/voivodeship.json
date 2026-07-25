@@ -1,0 +1,33 @@
+{
+  "id": "PL018",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Podkarpackie",
+    "en": "Podkarpackie",
+    "slug": "podkarpackie-pl018"
+  },
+  "code": {
+    "id": "PL018",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.911",
+    "lon": "22.179"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/podkarpackie-pl018/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

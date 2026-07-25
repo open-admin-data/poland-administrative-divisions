@@ -1,0 +1,45 @@
+{
+  "id": "PL024010",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pszczynski",
+    "en": "Pszczynski",
+    "slug": "pszczynski-pl024010"
+  },
+  "code": {
+    "id": "PL024010",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.99",
+    "lon": "18.891"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,33 @@
+{
+  "id": "PL002",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Dolnośląskie",
+    "en": "Dolnoslaskie",
+    "slug": "dolnoslaskie-pl002"
+  },
+  "code": {
+    "id": "PL002",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.951",
+    "lon": "16.361"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/dolnoslaskie-pl002/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

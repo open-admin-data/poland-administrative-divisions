@@ -1,0 +1,45 @@
+{
+  "id": "PL030002",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Czarnkowsko-Trzcianecki",
+    "en": "Czarnkowsko-Trzcianecki",
+    "slug": "czarnkowsko-trzcianecki-pl030002"
+  },
+  "code": {
+    "id": "PL030002",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL030",
+    "level": 1,
+    "name": {
+      "local": "Wielkopolskie",
+      "en": "Wielkopolskie",
+      "slug": "wielkopolskie-pl030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.929",
+    "lon": "16.373"
+  },
+  "metadata": {},
+  "source": {}
+}

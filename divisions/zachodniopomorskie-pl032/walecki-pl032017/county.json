@@ -1,0 +1,45 @@
+{
+  "id": "PL032017",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Walecki",
+    "en": "Walecki",
+    "slug": "walecki-pl032017"
+  },
+  "code": {
+    "id": "PL032017",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL032",
+    "level": 1,
+    "name": {
+      "local": "Zachodniopomorskie",
+      "en": "Zachodniopomorskie",
+      "slug": "zachodniopomorskie-pl032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.237",
+    "lon": "16.319"
+  },
+  "metadata": {},
+  "source": {}
+}

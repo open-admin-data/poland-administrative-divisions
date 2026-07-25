@@ -1,0 +1,45 @@
+{
+  "id": "PL024074",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Siemianowice Slaskie",
+    "en": "Siemianowice Slaskie",
+    "slug": "siemianowice-slaskie-pl024074"
+  },
+  "code": {
+    "id": "PL024074",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.312",
+    "lon": "19.018"
+  },
+  "metadata": {},
+  "source": {}
+}

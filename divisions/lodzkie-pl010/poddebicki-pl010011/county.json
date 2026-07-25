@@ -1,0 +1,45 @@
+{
+  "id": "PL010011",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Poddebicki",
+    "en": "Poddebicki",
+    "slug": "poddebicki-pl010011"
+  },
+  "code": {
+    "id": "PL010011",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.898",
+    "lon": "18.964"
+  },
+  "metadata": {},
+  "source": {}
+}

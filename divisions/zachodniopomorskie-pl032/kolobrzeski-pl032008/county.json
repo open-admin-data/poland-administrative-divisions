@@ -1,0 +1,45 @@
+{
+  "id": "PL032008",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kolobrzeski",
+    "en": "Kolobrzeski",
+    "slug": "kolobrzeski-pl032008"
+  },
+  "code": {
+    "id": "PL032008",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL032",
+    "level": 1,
+    "name": {
+      "local": "Zachodniopomorskie",
+      "en": "Zachodniopomorskie",
+      "slug": "zachodniopomorskie-pl032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.05",
+    "lon": "15.6"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,189 @@
+# Slaskie — Poland Administrative Divisions
+
+> 36 countys
+> Code: PL024
+> Coordinates: 50.247, 18.846
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Bedzinski
+
+Code: PL024001, Coordinates: 50.415, 19.113
+
+
+### Bielski
+
+Code: PL024002, Coordinates: 49.806, 18.909
+
+
+### Bielsko-Biala
+
+Code: PL024061, Coordinates: 49.812, 19.029
+
+
+### Bierunsko-Ledzinski
+
+Code: PL024014, Coordinates: 50.093, 19.141
+
+
+### Bytom
+
+Code: PL024062, Coordinates: 50.365, 18.872
+
+
+### Chorzow
+
+Code: PL024063, Coordinates: 50.289, 18.97
+
+
+### Cieszynski
+
+Code: PL024003, Coordinates: 49.726, 18.81
+
+
+### Czestochowa
+
+Code: PL024064, Coordinates: 50.81, 19.125
+
+
+### Czestochowski
+
+Code: PL024004, Coordinates: 50.841, 19.505
+
+
+### Dabrowa Gornicza
+
+Code: PL024065, Coordinates: 50.37, 19.289
+
+
+### Gliwice
+
+Code: PL024066, Coordinates: 50.301, 18.662
+
+
+### Gliwicki
+
+Code: PL024005, Coordinates: 50.363, 18.485
+
+
+### Jastrzebie-Zdroj
+
+Code: PL024067, Coordinates: 49.961, 18.6
+
+
+### Jaworzno
+
+Code: PL024068, Coordinates: 50.19, 19.273
+
+
+### Katowice
+
+Code: PL024069, Coordinates: 50.214, 19.006
+
+
+### Klobucki
+
+Code: PL024006, Coordinates: 50.933, 18.866
+
+
+### Lubliniecki
+
+Code: PL024007, Coordinates: 50.674, 18.746
+
+
+### Mikolowski
+
+Code: PL024008, Coordinates: 50.151, 18.831
+
+
+### Myslowice
+
+Code: PL024070, Coordinates: 50.21, 19.133
+
+
+### Myszkowski
+
+Code: PL024009, Coordinates: 50.606, 19.295
+
+
+### Piekary Slaskie
+
+Code: PL024071, Coordinates: 50.376, 18.938
+
+
+### Pszczynski
+
+Code: PL024010, Coordinates: 49.99, 18.891
+
+
+### Raciborski
+
+Code: PL024011, Coordinates: 50.087, 18.2
+
+
+### Ruda Slaska
+
+Code: PL024072, Coordinates: 50.27, 18.864
+
+
+### Rybnicki
+
+Code: PL024012, Coordinates: 50.114, 18.39
+
+
+### Rybnik
+
+Code: PL024073, Coordinates: 50.111, 18.553
+
+
+### Siemianowice Slaskie
+
+Code: PL024074, Coordinates: 50.312, 19.018
+
+
+### Sosnowiec
+
+Code: PL024075, Coordinates: 50.271, 19.216
+
+
+### Swietochlowice
+
+Code: PL024076, Coordinates: 50.298, 18.906
+
+
+### Tarnogorski
+
+Code: PL024013, Coordinates: 50.473, 18.88
+
+
+### Tychy
+
+Code: PL024077, Coordinates: 50.127, 19.007
+
+
+### Wodzislawski
+
+Code: PL024015, Coordinates: 49.993, 18.444
+
+
+### Zabrze
+
+Code: PL024078, Coordinates: 50.314, 18.782
+
+
+### Zawiercianski
+
+Code: PL024016, Coordinates: 50.544, 19.62
+
+
+### Zory
+
+Code: PL024079, Coordinates: 50.039, 18.681
+
+
+### Zywiecki
+
+Code: PL024017, Coordinates: 49.612, 19.228
+
+

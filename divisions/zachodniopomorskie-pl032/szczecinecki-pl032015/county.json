@@ -1,0 +1,45 @@
+{
+  "id": "PL032015",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Szczecinecki",
+    "en": "Szczecinecki",
+    "slug": "szczecinecki-pl032015"
+  },
+  "code": {
+    "id": "PL032015",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL032",
+    "level": 1,
+    "name": {
+      "local": "Zachodniopomorskie",
+      "en": "Zachodniopomorskie",
+      "slug": "zachodniopomorskie-pl032"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL032",
+      "level": 1,
+      "name": {
+        "local": "Zachodniopomorskie",
+        "en": "Zachodniopomorskie",
+        "slug": "zachodniopomorskie-pl032"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.738",
+    "lon": "16.56"
+  },
+  "metadata": {},
+  "source": {}
+}

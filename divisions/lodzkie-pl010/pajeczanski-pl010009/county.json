@@ -1,0 +1,45 @@
+{
+  "id": "PL010009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pajeczanski",
+    "en": "Pajeczanski",
+    "slug": "pajeczanski-pl010009"
+  },
+  "code": {
+    "id": "PL010009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.141",
+    "lon": "19.018"
+  },
+  "metadata": {},
+  "source": {}
+}

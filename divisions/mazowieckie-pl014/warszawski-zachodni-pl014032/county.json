@@ -1,0 +1,45 @@
+{
+  "id": "PL014032",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Warszawski Zachodni",
+    "en": "Warszawski Zachodni",
+    "slug": "warszawski-zachodni-pl014032"
+  },
+  "code": {
+    "id": "PL014032",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL014",
+    "level": 1,
+    "name": {
+      "local": "Mazowieckie",
+      "en": "Mazowieckie",
+      "slug": "mazowieckie-pl014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.269",
+    "lon": "20.608"
+  },
+  "metadata": {},
+  "source": {}
+}

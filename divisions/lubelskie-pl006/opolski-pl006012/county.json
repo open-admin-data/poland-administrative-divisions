@@ -1,0 +1,45 @@
+{
+  "id": "PL006012",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Opolski",
+    "en": "Opolski",
+    "slug": "opolski-pl006012"
+  },
+  "code": {
+    "id": "PL006012",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.129",
+    "lon": "22.001"
+  },
+  "metadata": {},
+  "source": {}
+}

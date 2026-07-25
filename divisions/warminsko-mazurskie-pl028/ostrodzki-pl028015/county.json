@@ -1,0 +1,45 @@
+{
+  "id": "PL028015",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ostrodzki",
+    "en": "Ostrodzki",
+    "slug": "ostrodzki-pl028015"
+  },
+  "code": {
+    "id": "PL028015",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL028",
+    "level": 1,
+    "name": {
+      "local": "Warmińsko-Mazurskie",
+      "en": "Warminsko-Mazurskie",
+      "slug": "warminsko-mazurskie-pl028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.729",
+    "lon": "19.934"
+  },
+  "metadata": {},
+  "source": {}
+}

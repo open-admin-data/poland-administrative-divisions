@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "PL010001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Belchatowski",
+      "en": "Belchatowski",
+      "slug": "belchatowski-pl010001"
+    },
+    "code": {
+      "id": "PL010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.369",
+      "lon": "19.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010021",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Brzezinski",
+      "en": "Brzezinski",
+      "slug": "brzezinski-pl010021"
+    },
+    "code": {
+      "id": "PL010021",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.841",
+      "lon": "19.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kutnowski",
+      "en": "Kutnowski",
+      "slug": "kutnowski-pl010002"
+    },
+    "code": {
+      "id": "PL010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.252",
+      "lon": "19.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Laski",
+      "en": "Laski",
+      "slug": "laski-pl010003"
+    },
+    "code": {
+      "id": "PL010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.559",
+      "lon": "19.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Leczycki",
+      "en": "Leczycki",
+      "slug": "leczycki-pl010004"
+    },
+    "code": {
+      "id": "PL010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.106",
+      "lon": "19.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lodz",
+      "en": "Lodz",
+      "slug": "lodz-pl010061"
+    },
+    "code": {
+      "id": "PL010061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.773",
+      "lon": "19.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lodzki Wschodni",
+      "en": "Lodzki Wschodni",
+      "slug": "lodzki-wschodni-pl010006"
+    },
+    "code": {
+      "id": "PL010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.686",
+      "lon": "19.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lowicki",
+      "en": "Lowicki",
+      "slug": "lowicki-pl010005"
+    },
+    "code": {
+      "id": "PL010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.11",
+      "lon": "19.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Opoczynski",
+      "en": "Opoczynski",
+      "slug": "opoczynski-pl010007"
+    },
+    "code": {
+      "id": "PL010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.393",
+      "lon": "20.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pabianicki",
+      "en": "Pabianicki",
+      "slug": "pabianicki-pl010008"
+    },
+    "code": {
+      "id": "PL010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.678",
+      "lon": "19.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pajeczanski",
+      "en": "Pajeczanski",
+      "slug": "pajeczanski-pl010009"
+    },
+    "code": {
+      "id": "PL010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.141",
+      "lon": "19.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Piotrkow Trybunalski",
+      "en": "Piotrkow Trybunalski",
+      "slug": "piotrkow-trybunalski-pl010062"
+    },
+    "code": {
+      "id": "PL010062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.413",
+      "lon": "19.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Piotrkowski",
+      "en": "Piotrkowski",
+      "slug": "piotrkowski-pl010010"
+    },
+    "code": {
+      "id": "PL010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.378",
+      "lon": "19.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Poddebicki",
+      "en": "Poddebicki",
+      "slug": "poddebicki-pl010011"
+    },
+    "code": {
+      "id": "PL010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.898",
+      "lon": "18.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Radomszczanski",
+      "en": "Radomszczanski",
+      "slug": "radomszczanski-pl010012"
+    },
+    "code": {
+      "id": "PL010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.065",
+      "lon": "19.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rawski",
+      "en": "Rawski",
+      "slug": "rawski-pl010013"
+    },
+    "code": {
+      "id": "PL010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.762",
+      "lon": "20.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sieradzki",
+      "en": "Sieradzki",
+      "slug": "sieradzki-pl010014"
+    },
+    "code": {
+      "id": "PL010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.603",
+      "lon": "18.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Skierniewice",
+      "en": "Skierniewice",
+      "slug": "skierniewice-pl010063"
+    },
+    "code": {
+      "id": "PL010063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.958",
+      "lon": "20.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Skierniewicki",
+      "en": "Skierniewicki",
+      "slug": "skierniewicki-pl010015"
+    },
+    "code": {
+      "id": "PL010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.945",
+      "lon": "20.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tomaszowski",
+      "en": "Tomaszowski",
+      "slug": "tomaszowski-pl010016"
+    },
+    "code": {
+      "id": "PL010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.597",
+      "lon": "20.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wielunski",
+      "en": "Wielunski",
+      "slug": "wielunski-pl010017"
+    },
+    "code": {
+      "id": "PL010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.233",
+      "lon": "18.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wieruszowski",
+      "en": "Wieruszowski",
+      "slug": "wieruszowski-pl010018"
+    },
+    "code": {
+      "id": "PL010018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.294",
+      "lon": "18.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zdunskowolski",
+      "en": "Zdunskowolski",
+      "slug": "zdunskowolski-pl010019"
+    },
+    "code": {
+      "id": "PL010019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.62",
+      "lon": "18.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL010020",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zgierski",
+      "en": "Zgierski",
+      "slug": "zgierski-pl010020"
+    },
+    "code": {
+      "id": "PL010020",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL010",
+        "level": 1,
+        "name": {
+          "local": "Łódzkie",
+          "en": "Lodzkie",
+          "slug": "lodzkie-pl010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.904",
+      "lon": "19.439"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

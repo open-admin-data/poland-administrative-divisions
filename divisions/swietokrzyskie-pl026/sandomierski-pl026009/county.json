@@ -1,0 +1,45 @@
+{
+  "id": "PL026009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Sandomierski",
+    "en": "Sandomierski",
+    "slug": "sandomierski-pl026009"
+  },
+  "code": {
+    "id": "PL026009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL026",
+    "level": 1,
+    "name": {
+      "local": "Świętokrzyskie",
+      "en": "Swietokrzyskie",
+      "slug": "swietokrzyskie-pl026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.695",
+    "lon": "21.68"
+  },
+  "metadata": {},
+  "source": {}
+}

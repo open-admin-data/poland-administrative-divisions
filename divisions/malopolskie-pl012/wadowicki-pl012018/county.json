@@ -1,0 +1,45 @@
+{
+  "id": "PL012018",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Wadowicki",
+    "en": "Wadowicki",
+    "slug": "wadowicki-pl012018"
+  },
+  "code": {
+    "id": "PL012018",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.895",
+    "lon": "19.535"
+  },
+  "metadata": {},
+  "source": {}
+}

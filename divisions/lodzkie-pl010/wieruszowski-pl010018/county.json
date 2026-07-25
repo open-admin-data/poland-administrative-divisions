@@ -1,0 +1,45 @@
+{
+  "id": "PL010018",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Wieruszowski",
+    "en": "Wieruszowski",
+    "slug": "wieruszowski-pl010018"
+  },
+  "code": {
+    "id": "PL010018",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.294",
+    "lon": "18.257"
+  },
+  "metadata": {},
+  "source": {}
+}

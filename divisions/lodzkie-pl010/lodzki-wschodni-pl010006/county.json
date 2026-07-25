@@ -1,0 +1,45 @@
+{
+  "id": "PL010006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lodzki Wschodni",
+    "en": "Lodzki Wschodni",
+    "slug": "lodzki-wschodni-pl010006"
+  },
+  "code": {
+    "id": "PL010006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.686",
+    "lon": "19.588"
+  },
+  "metadata": {},
+  "source": {}
+}

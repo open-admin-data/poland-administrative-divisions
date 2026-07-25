@@ -1,0 +1,45 @@
+{
+  "id": "PL008004",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nowosolski",
+    "en": "Nowosolski",
+    "slug": "nowosolski-pl008004"
+  },
+  "code": {
+    "id": "PL008004",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL008",
+    "level": 1,
+    "name": {
+      "local": "Lubuskie",
+      "en": "Lubuskie",
+      "slug": "lubuskie-pl008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.842",
+    "lon": "15.704"
+  },
+  "metadata": {},
+  "source": {}
+}

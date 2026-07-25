@@ -1,0 +1,1892 @@
+[
+  {
+    "id": "PL014001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bialobrzeski",
+      "en": "Bialobrzeski",
+      "slug": "bialobrzeski-pl014001"
+    },
+    "code": {
+      "id": "PL014001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.621",
+      "lon": "20.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ciechanowski",
+      "en": "Ciechanowski",
+      "slug": "ciechanowski-pl014002"
+    },
+    "code": {
+      "id": "PL014002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.902",
+      "lon": "20.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Garwolinski",
+      "en": "Garwolinski",
+      "slug": "garwolinski-pl014003"
+    },
+    "code": {
+      "id": "PL014003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.827",
+      "lon": "21.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gostyninski",
+      "en": "Gostyninski",
+      "slug": "gostyninski-pl014004"
+    },
+    "code": {
+      "id": "PL014004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.39",
+      "lon": "19.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Grodziski",
+      "en": "Grodziski",
+      "slug": "grodziski-pl014005"
+    },
+    "code": {
+      "id": "PL014005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.064",
+      "lon": "20.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Grojecki",
+      "en": "Grojecki",
+      "slug": "grojecki-pl014006"
+    },
+    "code": {
+      "id": "PL014006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.757",
+      "lon": "20.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kozienicki",
+      "en": "Kozienicki",
+      "slug": "kozienicki-pl014007"
+    },
+    "code": {
+      "id": "PL014007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.64",
+      "lon": "21.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Legionowski",
+      "en": "Legionowski",
+      "slug": "legionowski-pl014008"
+    },
+    "code": {
+      "id": "PL014008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.452",
+      "lon": "20.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lipski",
+      "en": "Lipski",
+      "slug": "lipski-pl014009"
+    },
+    "code": {
+      "id": "PL014009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.159",
+      "lon": "21.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Losicki",
+      "en": "Losicki",
+      "slug": "losicki-pl014010"
+    },
+    "code": {
+      "id": "PL014010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.224",
+      "lon": "22.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Makowski",
+      "en": "Makowski",
+      "slug": "makowski-pl014011"
+    },
+    "code": {
+      "id": "PL014011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.947",
+      "lon": "21.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Minski",
+      "en": "Minski",
+      "slug": "minski-pl014012"
+    },
+    "code": {
+      "id": "PL014012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.184",
+      "lon": "21.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mlawski",
+      "en": "Mlawski",
+      "slug": "mlawski-pl014013"
+    },
+    "code": {
+      "id": "PL014013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.055",
+      "lon": "20.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowodworski",
+      "en": "Nowodworski",
+      "slug": "nowodworski-pl014014"
+    },
+    "code": {
+      "id": "PL014014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.466",
+      "lon": "20.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ostrolecki",
+      "en": "Ostrolecki",
+      "slug": "ostrolecki-pl014015"
+    },
+    "code": {
+      "id": "PL014015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.14",
+      "lon": "21.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ostroleka",
+      "en": "Ostroleka",
+      "slug": "ostroleka-pl014061"
+    },
+    "code": {
+      "id": "PL014061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.078",
+      "lon": "21.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ostrowski",
+      "en": "Ostrowski",
+      "slug": "ostrowski-pl014016"
+    },
+    "code": {
+      "id": "PL014016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.795",
+      "lon": "21.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Otwocki",
+      "en": "Otwocki",
+      "slug": "otwocki-pl014017"
+    },
+    "code": {
+      "id": "PL014017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.049",
+      "lon": "21.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Piaseczynski",
+      "en": "Piaseczynski",
+      "slug": "piaseczynski-pl014018"
+    },
+    "code": {
+      "id": "PL014018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.016",
+      "lon": "21.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Plock",
+      "en": "Plock",
+      "slug": "plock-pl014062"
+    },
+    "code": {
+      "id": "PL014062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.535",
+      "lon": "19.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Plocki",
+      "en": "Plocki",
+      "slug": "plocki-pl014019"
+    },
+    "code": {
+      "id": "PL014019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.555",
+      "lon": "19.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014020",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Plonski",
+      "en": "Plonski",
+      "slug": "plonski-pl014020"
+    },
+    "code": {
+      "id": "PL014020",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.639",
+      "lon": "20.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014021",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pruszkowski",
+      "en": "Pruszkowski",
+      "slug": "pruszkowski-pl014021"
+    },
+    "code": {
+      "id": "PL014021",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.101",
+      "lon": "20.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014022",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Przasnyski",
+      "en": "Przasnyski",
+      "slug": "przasnyski-pl014022"
+    },
+    "code": {
+      "id": "PL014022",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.114",
+      "lon": "20.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014023",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Przysuski",
+      "en": "Przysuski",
+      "slug": "przysuski-pl014023"
+    },
+    "code": {
+      "id": "PL014023",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.424",
+      "lon": "20.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014024",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pultuski",
+      "en": "Pultuski",
+      "slug": "pultuski-pl014024"
+    },
+    "code": {
+      "id": "PL014024",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.672",
+      "lon": "20.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Radom",
+      "en": "Radom",
+      "slug": "radom-pl014063"
+    },
+    "code": {
+      "id": "PL014063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.417",
+      "lon": "21.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014025",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Radomski",
+      "en": "Radomski",
+      "slug": "radomski-pl014025"
+    },
+    "code": {
+      "id": "PL014025",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.336",
+      "lon": "21.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Siedlce",
+      "en": "Siedlce",
+      "slug": "siedlce-pl014064"
+    },
+    "code": {
+      "id": "PL014064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.162",
+      "lon": "22.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014026",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Siedlecki",
+      "en": "Siedlecki",
+      "slug": "siedlecki-pl014026"
+    },
+    "code": {
+      "id": "PL014026",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.192",
+      "lon": "22.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014027",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sierpecki",
+      "en": "Sierpecki",
+      "slug": "sierpecki-pl014027"
+    },
+    "code": {
+      "id": "PL014027",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.834",
+      "lon": "19.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014028",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sochaczewski",
+      "en": "Sochaczewski",
+      "slug": "sochaczewski-pl014028"
+    },
+    "code": {
+      "id": "PL014028",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.267",
+      "lon": "20.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014029",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sokolowski",
+      "en": "Sokolowski",
+      "slug": "sokolowski-pl014029"
+    },
+    "code": {
+      "id": "PL014029",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.495",
+      "lon": "22.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014030",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Szydlowiecki",
+      "en": "Szydlowiecki",
+      "slug": "szydlowiecki-pl014030"
+    },
+    "code": {
+      "id": "PL014030",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.256",
+      "lon": "20.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014065",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Warszawa",
+      "en": "Warszawa",
+      "slug": "warszawa-pl014065"
+    },
+    "code": {
+      "id": "PL014065",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.233",
+      "lon": "21.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014032",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Warszawski Zachodni",
+      "en": "Warszawski Zachodni",
+      "slug": "warszawski-zachodni-pl014032"
+    },
+    "code": {
+      "id": "PL014032",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.269",
+      "lon": "20.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014033",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wegrowski",
+      "en": "Wegrowski",
+      "slug": "wegrowski-pl014033"
+    },
+    "code": {
+      "id": "PL014033",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.456",
+      "lon": "21.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014034",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wolominski",
+      "en": "Wolominski",
+      "slug": "wolominski-pl014034"
+    },
+    "code": {
+      "id": "PL014034",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.406",
+      "lon": "21.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014035",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wyszkowski",
+      "en": "Wyszkowski",
+      "slug": "wyszkowski-pl014035"
+    },
+    "code": {
+      "id": "PL014035",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.651",
+      "lon": "21.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014037",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zurominski",
+      "en": "Zurominski",
+      "slug": "zurominski-pl014037"
+    },
+    "code": {
+      "id": "PL014037",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.017",
+      "lon": "19.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014036",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zwolenski",
+      "en": "Zwolenski",
+      "slug": "zwolenski-pl014036"
+    },
+    "code": {
+      "id": "PL014036",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.361",
+      "lon": "21.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL014038",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zyrardowski",
+      "en": "Zyrardowski",
+      "slug": "zyrardowski-pl014038"
+    },
+    "code": {
+      "id": "PL014038",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL014",
+        "level": 1,
+        "name": {
+          "local": "Mazowieckie",
+          "en": "Mazowieckie",
+          "slug": "mazowieckie-pl014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52",
+      "lon": "20.437"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

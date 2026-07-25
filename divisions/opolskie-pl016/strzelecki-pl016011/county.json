@@ -1,0 +1,45 @@
+{
+  "id": "PL016011",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Strzelecki",
+    "en": "Strzelecki",
+    "slug": "strzelecki-pl016011"
+  },
+  "code": {
+    "id": "PL016011",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL016",
+    "level": 1,
+    "name": {
+      "local": "Opolskie",
+      "en": "Opolskie",
+      "slug": "opolskie-pl016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.531",
+    "lon": "18.268"
+  },
+  "metadata": {},
+  "source": {}
+}

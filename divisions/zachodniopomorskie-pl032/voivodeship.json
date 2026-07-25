@@ -1,0 +1,33 @@
+{
+  "id": "PL032",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Zachodniopomorskie",
+    "en": "Zachodniopomorskie",
+    "slug": "zachodniopomorskie-pl032"
+  },
+  "code": {
+    "id": "PL032",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.598",
+    "lon": "15.528"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/zachodniopomorskie-pl032/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

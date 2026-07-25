@@ -1,0 +1,45 @@
+{
+  "id": "PL022062",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Gdynia",
+    "en": "Gdynia",
+    "slug": "gdynia-pl022062"
+  },
+  "code": {
+    "id": "PL022062",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL022",
+    "level": 1,
+    "name": {
+      "local": "Pomorskie",
+      "en": "Pomorskie",
+      "slug": "pomorskie-pl022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.504",
+    "lon": "18.463"
+  },
+  "metadata": {},
+  "source": {}
+}

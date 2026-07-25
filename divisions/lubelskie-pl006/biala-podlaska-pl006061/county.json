@@ -1,0 +1,45 @@
+{
+  "id": "PL006061",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Biala Podlaska",
+    "en": "Biala Podlaska",
+    "slug": "biala-podlaska-pl006061"
+  },
+  "code": {
+    "id": "PL006061",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.029",
+    "lon": "23.15"
+  },
+  "metadata": {},
+  "source": {}
+}

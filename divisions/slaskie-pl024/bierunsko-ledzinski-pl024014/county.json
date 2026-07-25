@@ -1,0 +1,45 @@
+{
+  "id": "PL024014",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Bierunsko-Ledzinski",
+    "en": "Bierunsko-Ledzinski",
+    "slug": "bierunsko-ledzinski-pl024014"
+  },
+  "code": {
+    "id": "PL024014",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.093",
+    "lon": "19.141"
+  },
+  "metadata": {},
+  "source": {}
+}

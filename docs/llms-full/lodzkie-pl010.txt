@@ -1,0 +1,129 @@
+# Lodzkie — Poland Administrative Divisions
+
+> 24 countys
+> Code: PL010
+> Coordinates: 51.619, 19.394
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Belchatowski
+
+Code: PL010001, Coordinates: 51.369, 19.276
+
+
+### Brzezinski
+
+Code: PL010021, Coordinates: 51.841, 19.819
+
+
+### Kutnowski
+
+Code: PL010002, Coordinates: 52.252, 19.427
+
+
+### Laski
+
+Code: PL010003, Coordinates: 51.559, 19.137
+
+
+### Leczycki
+
+Code: PL010004, Coordinates: 52.106, 19.236
+
+
+### Lodz
+
+Code: PL010061, Coordinates: 51.773, 19.479
+
+
+### Lodzki Wschodni
+
+Code: PL010006, Coordinates: 51.686, 19.588
+
+
+### Lowicki
+
+Code: PL010005, Coordinates: 52.11, 19.824
+
+
+### Opoczynski
+
+Code: PL010007, Coordinates: 51.393, 20.15
+
+
+### Pabianicki
+
+Code: PL010008, Coordinates: 51.678, 19.321
+
+
+### Pajeczanski
+
+Code: PL010009, Coordinates: 51.141, 19.018
+
+
+### Piotrkow Trybunalski
+
+Code: PL010062, Coordinates: 51.413, 19.689
+
+
+### Piotrkowski
+
+Code: PL010010, Coordinates: 51.378, 19.577
+
+
+### Poddebicki
+
+Code: PL010011, Coordinates: 51.898, 18.964
+
+
+### Radomszczanski
+
+Code: PL010012, Coordinates: 51.065, 19.631
+
+
+### Rawski
+
+Code: PL010013, Coordinates: 51.762, 20.377
+
+
+### Sieradzki
+
+Code: PL010014, Coordinates: 51.603, 18.613
+
+
+### Skierniewice
+
+Code: PL010063, Coordinates: 51.958, 20.145
+
+
+### Skierniewicki
+
+Code: PL010015, Coordinates: 51.945, 20.01
+
+
+### Tomaszowski
+
+Code: PL010016, Coordinates: 51.597, 20.067
+
+
+### Wielunski
+
+Code: PL010017, Coordinates: 51.233, 18.582
+
+
+### Wieruszowski
+
+Code: PL010018, Coordinates: 51.294, 18.257
+
+
+### Zdunskowolski
+
+Code: PL010019, Coordinates: 51.62, 18.947
+
+
+### Zgierski
+
+Code: PL010020, Coordinates: 51.904, 19.439
+
+

@@ -1,0 +1,542 @@
+[
+  {
+    "id": "PL016001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Brzeski",
+      "en": "Brzeski",
+      "slug": "brzeski-pl016001"
+    },
+    "code": {
+      "id": "PL016001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.789",
+      "lon": "17.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Glubczycki",
+      "en": "Glubczycki",
+      "slug": "glubczycki-pl016002"
+    },
+    "code": {
+      "id": "PL016002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.148",
+      "lon": "17.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kedzierzynsko-Kozielski",
+      "en": "Kedzierzynsko-Kozielski",
+      "slug": "kedzierzynsko-kozielski-pl016003"
+    },
+    "code": {
+      "id": "PL016003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.294",
+      "lon": "18.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kluczborski",
+      "en": "Kluczborski",
+      "slug": "kluczborski-pl016004"
+    },
+    "code": {
+      "id": "PL016004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.986",
+      "lon": "18.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krapkowicki",
+      "en": "Krapkowicki",
+      "slug": "krapkowicki-pl016005"
+    },
+    "code": {
+      "id": "PL016005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.452",
+      "lon": "17.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Namyslowski",
+      "en": "Namyslowski",
+      "slug": "namyslowski-pl016006"
+    },
+    "code": {
+      "id": "PL016006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.016",
+      "lon": "17.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nyski",
+      "en": "Nyski",
+      "slug": "nyski-pl016007"
+    },
+    "code": {
+      "id": "PL016007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.461",
+      "lon": "17.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Oleski",
+      "en": "Oleski",
+      "slug": "oleski-pl016008"
+    },
+    "code": {
+      "id": "PL016008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.879",
+      "lon": "18.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Opole",
+      "en": "Opole",
+      "slug": "opole-pl016061"
+    },
+    "code": {
+      "id": "PL016061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.679",
+      "lon": "17.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Opolski",
+      "en": "Opolski",
+      "slug": "opolski-pl016009"
+    },
+    "code": {
+      "id": "PL016009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.735",
+      "lon": "18.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Prudnicki",
+      "en": "Prudnicki",
+      "slug": "prudnicki-pl016010"
+    },
+    "code": {
+      "id": "PL016010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.41",
+      "lon": "17.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL016011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Strzelecki",
+      "en": "Strzelecki",
+      "slug": "strzelecki-pl016011"
+    },
+    "code": {
+      "id": "PL016011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL016",
+        "level": 1,
+        "name": {
+          "local": "Opolskie",
+          "en": "Opolskie",
+          "slug": "opolskie-pl016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.531",
+      "lon": "18.268"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "PL002001",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Boleslawiecki",
+    "en": "Boleslawiecki",
+    "slug": "boleslawiecki-pl002001"
+  },
+  "code": {
+    "id": "PL002001",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL002",
+    "level": 1,
+    "name": {
+      "local": "Dolnośląskie",
+      "en": "Dolnoslaskie",
+      "slug": "dolnoslaskie-pl002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.322",
+    "lon": "15.521"
+  },
+  "metadata": {},
+  "source": {}
+}

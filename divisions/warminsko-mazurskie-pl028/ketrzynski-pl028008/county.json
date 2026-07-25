@@ -1,0 +1,45 @@
+{
+  "id": "PL028008",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ketrzynski",
+    "en": "Ketrzynski",
+    "slug": "ketrzynski-pl028008"
+  },
+  "code": {
+    "id": "PL028008",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL028",
+    "level": 1,
+    "name": {
+      "local": "Warmińsko-Mazurskie",
+      "en": "Warminsko-Mazurskie",
+      "slug": "warminsko-mazurskie-pl028"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.136",
+    "lon": "21.289"
+  },
+  "metadata": {},
+  "source": {}
+}

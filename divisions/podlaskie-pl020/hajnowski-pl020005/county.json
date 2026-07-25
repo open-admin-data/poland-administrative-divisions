@@ -1,0 +1,45 @@
+{
+  "id": "PL020005",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Hajnowski",
+    "en": "Hajnowski",
+    "slug": "hajnowski-pl020005"
+  },
+  "code": {
+    "id": "PL020005",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.708",
+    "lon": "23.661"
+  },
+  "metadata": {},
+  "source": {}
+}

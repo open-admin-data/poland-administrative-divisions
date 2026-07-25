@@ -1,0 +1,45 @@
+{
+  "id": "PL014030",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Szydlowiecki",
+    "en": "Szydlowiecki",
+    "slug": "szydlowiecki-pl014030"
+  },
+  "code": {
+    "id": "PL014030",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL014",
+    "level": 1,
+    "name": {
+      "local": "Mazowieckie",
+      "en": "Mazowieckie",
+      "slug": "mazowieckie-pl014"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL014",
+      "level": 1,
+      "name": {
+        "local": "Mazowieckie",
+        "en": "Mazowieckie",
+        "slug": "mazowieckie-pl014"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.256",
+    "lon": "20.844"
+  },
+  "metadata": {},
+  "source": {}
+}

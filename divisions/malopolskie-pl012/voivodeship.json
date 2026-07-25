@@ -1,0 +1,33 @@
+{
+  "id": "PL012",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Małopolskie",
+    "en": "Malopolskie",
+    "slug": "malopolskie-pl012"
+  },
+  "code": {
+    "id": "PL012",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.85",
+    "lon": "20.265"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/malopolskie-pl012/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

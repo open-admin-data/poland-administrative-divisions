@@ -1,0 +1,45 @@
+{
+  "id": "PL006006",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Krasnostawski",
+    "en": "Krasnostawski",
+    "slug": "krasnostawski-pl006006"
+  },
+  "code": {
+    "id": "PL006006",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.963",
+    "lon": "23.1"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,767 @@
+[
+  {
+    "id": "PL020001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Augustowski",
+      "en": "Augustowski",
+      "slug": "augustowski-pl020001"
+    },
+    "code": {
+      "id": "PL020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.797",
+      "lon": "23.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bialostocki",
+      "en": "Bialostocki",
+      "slug": "bialostocki-pl020002"
+    },
+    "code": {
+      "id": "PL020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.117",
+      "lon": "23.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bialystok",
+      "en": "Bialystok",
+      "slug": "bialystok-pl020061"
+    },
+    "code": {
+      "id": "PL020061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.128",
+      "lon": "23.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bielski",
+      "en": "Bielski",
+      "slug": "bielski-pl020003"
+    },
+    "code": {
+      "id": "PL020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.746",
+      "lon": "23.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Grajewski",
+      "en": "Grajewski",
+      "slug": "grajewski-pl020004"
+    },
+    "code": {
+      "id": "PL020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.555",
+      "lon": "22.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hajnowski",
+      "en": "Hajnowski",
+      "slug": "hajnowski-pl020005"
+    },
+    "code": {
+      "id": "PL020005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.708",
+      "lon": "23.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kolnenski",
+      "en": "Kolnenski",
+      "slug": "kolnenski-pl020006"
+    },
+    "code": {
+      "id": "PL020006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.392",
+      "lon": "21.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lomza",
+      "en": "Lomza",
+      "slug": "lomza-pl020062"
+    },
+    "code": {
+      "id": "PL020062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.183",
+      "lon": "22.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lomzynski",
+      "en": "Lomzynski",
+      "slug": "lomzynski-pl020007"
+    },
+    "code": {
+      "id": "PL020007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.208",
+      "lon": "22.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Moniecki",
+      "en": "Moniecki",
+      "slug": "moniecki-pl020008"
+    },
+    "code": {
+      "id": "PL020008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.446",
+      "lon": "22.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sejnenski",
+      "en": "Sejnenski",
+      "slug": "sejnenski-pl020009"
+    },
+    "code": {
+      "id": "PL020009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.096",
+      "lon": "23.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Siemiatycki",
+      "en": "Siemiatycki",
+      "slug": "siemiatycki-pl020010"
+    },
+    "code": {
+      "id": "PL020010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.489",
+      "lon": "22.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sokolski",
+      "en": "Sokolski",
+      "slug": "sokolski-pl020011"
+    },
+    "code": {
+      "id": "PL020011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.435",
+      "lon": "23.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Suwalki",
+      "en": "Suwalki",
+      "slug": "suwalki-pl020063"
+    },
+    "code": {
+      "id": "PL020063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.103",
+      "lon": "22.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Suwalski",
+      "en": "Suwalski",
+      "slug": "suwalski-pl020012"
+    },
+    "code": {
+      "id": "PL020012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.167",
+      "lon": "22.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wysokomazowiecki",
+      "en": "Wysokomazowiecki",
+      "slug": "wysokomazowiecki-pl020013"
+    },
+    "code": {
+      "id": "PL020013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.865",
+      "lon": "22.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL020014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zambrowski",
+      "en": "Zambrowski",
+      "slug": "zambrowski-pl020014"
+    },
+    "code": {
+      "id": "PL020014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL020",
+        "level": 1,
+        "name": {
+          "local": "Podlaskie",
+          "en": "Podlaskie",
+          "slug": "podlaskie-pl020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.023",
+      "lon": "22.248"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "PL008062",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Zielona Gora",
+    "en": "Zielona Gora",
+    "slug": "zielona-gora-pl008062"
+  },
+  "code": {
+    "id": "PL008062",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL008",
+    "level": 1,
+    "name": {
+      "local": "Lubuskie",
+      "en": "Lubuskie",
+      "slug": "lubuskie-pl008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.928",
+    "lon": "15.549"
+  },
+  "metadata": {},
+  "source": {}
+}

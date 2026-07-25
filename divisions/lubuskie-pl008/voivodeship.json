@@ -1,0 +1,33 @@
+{
+  "id": "PL008",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Lubuskie",
+    "en": "Lubuskie",
+    "slug": "lubuskie-pl008"
+  },
+  "code": {
+    "id": "PL008",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.244",
+    "lon": "15.281"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/lubuskie-pl008/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

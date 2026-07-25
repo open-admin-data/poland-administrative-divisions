@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "PL004001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Aleksandrowski",
+      "en": "Aleksandrowski",
+      "slug": "aleksandrowski-pl004001"
+    },
+    "code": {
+      "id": "PL004001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.784",
+      "lon": "18.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Brodnicki",
+      "en": "Brodnicki",
+      "slug": "brodnicki-pl004002"
+    },
+    "code": {
+      "id": "PL004002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.27",
+      "lon": "19.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bydgoski",
+      "en": "Bydgoski",
+      "slug": "bydgoski-pl004003"
+    },
+    "code": {
+      "id": "PL004003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.192",
+      "lon": "17.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bydgoszcz",
+      "en": "Bydgoszcz",
+      "slug": "bydgoszcz-pl004061"
+    },
+    "code": {
+      "id": "PL004061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.13",
+      "lon": "18.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chelminski",
+      "en": "Chelminski",
+      "slug": "chelminski-pl004004"
+    },
+    "code": {
+      "id": "PL004004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.301",
+      "lon": "18.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Golubsko-Dobrzynski",
+      "en": "Golubsko-Dobrzynski",
+      "slug": "golubsko-dobrzynski-pl004005"
+    },
+    "code": {
+      "id": "PL004005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.099",
+      "lon": "19.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Grudziadz",
+      "en": "Grudziadz",
+      "slug": "grudziadz-pl004062"
+    },
+    "code": {
+      "id": "PL004062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.473",
+      "lon": "18.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Grudziadzki",
+      "en": "Grudziadzki",
+      "slug": "grudziadzki-pl004006"
+    },
+    "code": {
+      "id": "PL004006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.472",
+      "lon": "19.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Inowroclawski",
+      "en": "Inowroclawski",
+      "slug": "inowroclawski-pl004007"
+    },
+    "code": {
+      "id": "PL004007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.765",
+      "lon": "18.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lipnowski",
+      "en": "Lipnowski",
+      "slug": "lipnowski-pl004008"
+    },
+    "code": {
+      "id": "PL004008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.816",
+      "lon": "19.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mogilenski",
+      "en": "Mogilenski",
+      "slug": "mogilenski-pl004009"
+    },
+    "code": {
+      "id": "PL004009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.662",
+      "lon": "18.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nakielski",
+      "en": "Nakielski",
+      "slug": "nakielski-pl004010"
+    },
+    "code": {
+      "id": "PL004010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.095",
+      "lon": "17.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Radziejowski",
+      "en": "Radziejowski",
+      "slug": "radziejowski-pl004011"
+    },
+    "code": {
+      "id": "PL004011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.574",
+      "lon": "18.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rypinski",
+      "en": "Rypinski",
+      "slug": "rypinski-pl004012"
+    },
+    "code": {
+      "id": "PL004012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.073",
+      "lon": "19.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sepolenski",
+      "en": "Sepolenski",
+      "slug": "sepolenski-pl004013"
+    },
+    "code": {
+      "id": "PL004013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.443",
+      "lon": "17.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Swiecki",
+      "en": "Swiecki",
+      "slug": "swiecki-pl004014"
+    },
+    "code": {
+      "id": "PL004014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.481",
+      "lon": "18.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Torun",
+      "en": "Torun",
+      "slug": "torun-pl004063"
+    },
+    "code": {
+      "id": "PL004063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.015",
+      "lon": "18.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Torunski",
+      "en": "Torunski",
+      "slug": "torunski-pl004015"
+    },
+    "code": {
+      "id": "PL004015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.047",
+      "lon": "18.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tucholski",
+      "en": "Tucholski",
+      "slug": "tucholski-pl004016"
+    },
+    "code": {
+      "id": "PL004016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.582",
+      "lon": "17.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wabrzeski",
+      "en": "Wabrzeski",
+      "slug": "wabrzeski-pl004017"
+    },
+    "code": {
+      "id": "PL004017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.282",
+      "lon": "18.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wloclawek",
+      "en": "Wloclawek",
+      "slug": "wloclawek-pl004064"
+    },
+    "code": {
+      "id": "PL004064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.666",
+      "lon": "19.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wloclawski",
+      "en": "Wloclawski",
+      "slug": "wloclawski-pl004018"
+    },
+    "code": {
+      "id": "PL004018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.557",
+      "lon": "19.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL004019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zninski",
+      "en": "Zninski",
+      "slug": "zninski-pl004019"
+    },
+    "code": {
+      "id": "PL004019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL004",
+      "level": 1,
+      "name": {
+        "local": "Kujawsko-Pomorskie",
+        "en": "Kujawsko-Pomorskie",
+        "slug": "kujawsko-pomorskie-pl004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL004",
+        "level": 1,
+        "name": {
+          "local": "Kujawsko-Pomorskie",
+          "en": "Kujawsko-Pomorskie",
+          "slug": "kujawsko-pomorskie-pl004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.822",
+      "lon": "17.691"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "id": "PL026008",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pinczowski",
+    "en": "Pinczowski",
+    "slug": "pinczowski-pl026008"
+  },
+  "code": {
+    "id": "PL026008",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL026",
+    "level": 1,
+    "name": {
+      "local": "Świętokrzyskie",
+      "en": "Swietokrzyskie",
+      "slug": "swietokrzyskie-pl026"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.5",
+    "lon": "20.494"
+  },
+  "metadata": {},
+  "source": {}
+}

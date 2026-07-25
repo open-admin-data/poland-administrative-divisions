@@ -1,0 +1,69 @@
+# Opolskie — Poland Administrative Divisions
+
+> 12 countys
+> Code: PL016
+> Coordinates: 50.584, 17.851
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Brzeski
+
+Code: PL016001, Coordinates: 50.789, 17.536
+
+
+### Glubczycki
+
+Code: PL016002, Coordinates: 50.148, 17.833
+
+
+### Kedzierzynsko-Kozielski
+
+Code: PL016003, Coordinates: 50.294, 18.161
+
+
+### Kluczborski
+
+Code: PL016004, Coordinates: 50.986, 18.146
+
+
+### Krapkowicki
+
+Code: PL016005, Coordinates: 50.452, 17.955
+
+
+### Namyslowski
+
+Code: PL016006, Coordinates: 51.016, 17.722
+
+
+### Nyski
+
+Code: PL016007, Coordinates: 50.461, 17.304
+
+
+### Oleski
+
+Code: PL016008, Coordinates: 50.879, 18.483
+
+
+### Opole
+
+Code: PL016061, Coordinates: 50.679, 17.93
+
+
+### Opolski
+
+Code: PL016009, Coordinates: 50.735, 18.087
+
+
+### Prudnicki
+
+Code: PL016010, Coordinates: 50.41, 17.663
+
+
+### Strzelecki
+
+Code: PL016011, Coordinates: 50.531, 18.268
+
+

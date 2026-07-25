@@ -1,0 +1,45 @@
+{
+  "id": "PL024015",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Wodzislawski",
+    "en": "Wodzislawski",
+    "slug": "wodzislawski-pl024015"
+  },
+  "code": {
+    "id": "PL024015",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.993",
+    "lon": "18.444"
+  },
+  "metadata": {},
+  "source": {}
+}

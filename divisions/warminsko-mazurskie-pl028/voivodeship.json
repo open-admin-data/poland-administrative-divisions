@@ -1,0 +1,33 @@
+{
+  "id": "PL028",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Warmińsko-Mazurskie",
+    "en": "Warminsko-Mazurskie",
+    "slug": "warminsko-mazurskie-pl028"
+  },
+  "code": {
+    "id": "PL028",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.796",
+    "lon": "21.104"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/warminsko-mazurskie-pl028/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

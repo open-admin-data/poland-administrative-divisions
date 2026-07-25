@@ -1,0 +1,45 @@
+{
+  "id": "PL002007",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kamiennogorski",
+    "en": "Kamiennogorski",
+    "slug": "kamiennogorski-pl002007"
+  },
+  "code": {
+    "id": "PL002007",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL002",
+    "level": 1,
+    "name": {
+      "local": "Dolnośląskie",
+      "en": "Dolnoslaskie",
+      "slug": "dolnoslaskie-pl002"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL002",
+      "level": 1,
+      "name": {
+        "local": "Dolnośląskie",
+        "en": "Dolnoslaskie",
+        "slug": "dolnoslaskie-pl002"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.756",
+    "lon": "15.986"
+  },
+  "metadata": {},
+  "source": {}
+}

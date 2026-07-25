@@ -1,0 +1,45 @@
+{
+  "id": "PL008009",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Zielonogorski",
+    "en": "Zielonogorski",
+    "slug": "zielonogorski-pl008009"
+  },
+  "code": {
+    "id": "PL008009",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL008",
+    "level": 1,
+    "name": {
+      "local": "Lubuskie",
+      "en": "Lubuskie",
+      "slug": "lubuskie-pl008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.976",
+    "lon": "15.763"
+  },
+  "metadata": {},
+  "source": {}
+}

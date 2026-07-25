@@ -1,0 +1,33 @@
+{
+  "id": "PL022",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Pomorskie",
+    "en": "Pomorskie",
+    "slug": "pomorskie-pl022"
+  },
+  "code": {
+    "id": "PL022",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "54.163",
+    "lon": "18.001"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/pomorskie-pl022/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

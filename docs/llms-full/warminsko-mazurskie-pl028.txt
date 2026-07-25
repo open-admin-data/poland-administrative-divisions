@@ -1,0 +1,114 @@
+# Warminsko-Mazurskie — Poland Administrative Divisions
+
+> 21 countys
+> Code: PL028
+> Coordinates: 53.796, 21.104
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Bartoszycki
+
+Code: PL028001, Coordinates: 54.213, 20.568
+
+
+### Braniewski
+
+Code: PL028002, Coordinates: 54.278, 19.956
+
+
+### Dzialdowski
+
+Code: PL028003, Coordinates: 53.289, 19.981
+
+
+### Elblag
+
+Code: PL028061, Coordinates: 54.199, 19.441
+
+
+### Elblaski
+
+Code: PL028004, Coordinates: 54.159, 19.638
+
+
+### Elcki
+
+Code: PL028005, Coordinates: 53.817, 22.432
+
+
+### Gizycki
+
+Code: PL028006, Coordinates: 54.018, 21.853
+
+
+### Goldapski
+
+Code: PL028018, Coordinates: 54.261, 22.281
+
+
+### Ilawski
+
+Code: PL028007, Coordinates: 53.675, 19.492
+
+
+### Ketrzynski
+
+Code: PL028008, Coordinates: 54.136, 21.289
+
+
+### Lidzbarski
+
+Code: PL028009, Coordinates: 54.106, 20.427
+
+
+### Mragowski
+
+Code: PL028010, Coordinates: 53.811, 21.402
+
+
+### Nidzicki
+
+Code: PL028011, Coordinates: 53.373, 20.489
+
+
+### Nowomiejski
+
+Code: PL028012, Coordinates: 53.436, 19.549
+
+
+### Olecki
+
+Code: PL028013, Coordinates: 54.051, 22.408
+
+
+### Olsztyn
+
+Code: PL028062, Coordinates: 53.776, 20.478
+
+
+### Olsztynski
+
+Code: PL028014, Coordinates: 53.779, 20.733
+
+
+### Ostrodzki
+
+Code: PL028015, Coordinates: 53.729, 19.934
+
+
+### Piski
+
+Code: PL028016, Coordinates: 53.681, 21.822
+
+
+### Szczycienski
+
+Code: PL028017, Coordinates: 53.542, 21.018
+
+
+### Wegorzewski
+
+Code: PL028019, Coordinates: 54.207, 21.792
+
+

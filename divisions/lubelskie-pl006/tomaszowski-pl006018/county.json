@@ -1,0 +1,45 @@
+{
+  "id": "PL006018",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tomaszowski",
+    "en": "Tomaszowski",
+    "slug": "tomaszowski-pl006018"
+  },
+  "code": {
+    "id": "PL006018",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.478",
+    "lon": "23.58"
+  },
+  "metadata": {},
+  "source": {}
+}

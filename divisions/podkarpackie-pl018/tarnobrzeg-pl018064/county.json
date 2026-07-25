@@ -1,0 +1,45 @@
+{
+  "id": "PL018064",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tarnobrzeg",
+    "en": "Tarnobrzeg",
+    "slug": "tarnobrzeg-pl018064"
+  },
+  "code": {
+    "id": "PL018064",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL018",
+    "level": 1,
+    "name": {
+      "local": "Podkarpackie",
+      "en": "Podkarpackie",
+      "slug": "podkarpackie-pl018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.584",
+    "lon": "21.712"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,45 @@
+{
+  "id": "PL016002",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Glubczycki",
+    "en": "Glubczycki",
+    "slug": "glubczycki-pl016002"
+  },
+  "code": {
+    "id": "PL016002",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL016",
+    "level": 1,
+    "name": {
+      "local": "Opolskie",
+      "en": "Opolskie",
+      "slug": "opolskie-pl016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.148",
+    "lon": "17.833"
+  },
+  "metadata": {},
+  "source": {}
+}

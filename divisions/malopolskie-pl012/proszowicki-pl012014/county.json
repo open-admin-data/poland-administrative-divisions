@@ -1,0 +1,45 @@
+{
+  "id": "PL012014",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Proszowicki",
+    "en": "Proszowicki",
+    "slug": "proszowicki-pl012014"
+  },
+  "code": {
+    "id": "PL012014",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.217",
+    "lon": "20.267"
+  },
+  "metadata": {},
+  "source": {}
+}

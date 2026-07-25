@@ -1,0 +1,45 @@
+{
+  "id": "PL012005",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Gorlicki",
+    "en": "Gorlicki",
+    "slug": "gorlicki-pl012005"
+  },
+  "code": {
+    "id": "PL012005",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL012",
+    "level": 1,
+    "name": {
+      "local": "Małopolskie",
+      "en": "Malopolskie",
+      "slug": "malopolskie-pl012"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL012",
+      "level": 1,
+      "name": {
+        "local": "Małopolskie",
+        "en": "Malopolskie",
+        "slug": "malopolskie-pl012"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "49.591",
+    "lon": "21.167"
+  },
+  "metadata": {},
+  "source": {}
+}

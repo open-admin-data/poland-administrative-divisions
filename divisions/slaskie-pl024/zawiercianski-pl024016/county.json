@@ -1,0 +1,45 @@
+{
+  "id": "PL024016",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Zawiercianski",
+    "en": "Zawiercianski",
+    "slug": "zawiercianski-pl024016"
+  },
+  "code": {
+    "id": "PL024016",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.544",
+    "lon": "19.62"
+  },
+  "metadata": {},
+  "source": {}
+}

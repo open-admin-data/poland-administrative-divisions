@@ -1,0 +1,45 @@
+{
+  "id": "PL022003",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Czluchowski",
+    "en": "Czluchowski",
+    "slug": "czluchowski-pl022003"
+  },
+  "code": {
+    "id": "PL022003",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL022",
+    "level": 1,
+    "name": {
+      "local": "Pomorskie",
+      "en": "Pomorskie",
+      "slug": "pomorskie-pl022"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL022",
+      "level": 1,
+      "name": {
+        "local": "Pomorskie",
+        "en": "Pomorskie",
+        "slug": "pomorskie-pl022"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "53.751",
+    "lon": "17.167"
+  },
+  "metadata": {},
+  "source": {}
+}

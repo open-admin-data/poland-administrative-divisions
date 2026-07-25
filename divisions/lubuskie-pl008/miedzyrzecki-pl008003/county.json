@@ -1,0 +1,45 @@
+{
+  "id": "PL008003",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Miedzyrzecki",
+    "en": "Miedzyrzecki",
+    "slug": "miedzyrzecki-pl008003"
+  },
+  "code": {
+    "id": "PL008003",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL008",
+    "level": 1,
+    "name": {
+      "local": "Lubuskie",
+      "en": "Lubuskie",
+      "slug": "lubuskie-pl008"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.499",
+    "lon": "15.58"
+  },
+  "metadata": {},
+  "source": {}
+}

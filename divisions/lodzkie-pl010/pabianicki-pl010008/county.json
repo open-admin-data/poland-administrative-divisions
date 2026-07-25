@@ -1,0 +1,45 @@
+{
+  "id": "PL010008",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pabianicki",
+    "en": "Pabianicki",
+    "slug": "pabianicki-pl010008"
+  },
+  "code": {
+    "id": "PL010008",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.678",
+    "lon": "19.321"
+  },
+  "metadata": {},
+  "source": {}
+}

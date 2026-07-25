@@ -1,0 +1,109 @@
+# Pomorskie — Poland Administrative Divisions
+
+> 20 countys
+> Code: PL022
+> Coordinates: 54.163, 18.001
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Bytowski
+
+Code: PL022001, Coordinates: 54.158, 17.379
+
+
+### Chojnicki
+
+Code: PL022002, Coordinates: 53.801, 17.728
+
+
+### Czluchowski
+
+Code: PL022003, Coordinates: 53.751, 17.167
+
+
+### Gdansk
+
+Code: PL022061, Coordinates: 54.361, 18.629
+
+
+### Gdanski
+
+Code: PL022004, Coordinates: 54.225, 18.592
+
+
+### Gdynia
+
+Code: PL022062, Coordinates: 54.504, 18.463
+
+
+### Kartuski
+
+Code: PL022005, Coordinates: 54.327, 18.109
+
+
+### Koscierski
+
+Code: PL022006, Coordinates: 54.019, 17.971
+
+
+### Kwidzynski
+
+Code: PL022007, Coordinates: 53.747, 19.077
+
+
+### Leborski
+
+Code: PL022008, Coordinates: 54.568, 17.689
+
+
+### Malborski
+
+Code: PL022009, Coordinates: 54.063, 19.028
+
+
+### Nowodworski
+
+Code: PL022010, Coordinates: 54.288, 19.103
+
+
+### Pucki
+
+Code: PL022011, Coordinates: 54.697, 18.326
+
+
+### Slupsk
+
+Code: PL022063, Coordinates: 54.461, 17.028
+
+
+### Slupski
+
+Code: PL022012, Coordinates: 54.422, 17.166
+
+
+### Sopot
+
+Code: PL022064, Coordinates: 54.442, 18.543
+
+
+### Starogardzki
+
+Code: PL022013, Coordinates: 53.899, 18.372
+
+
+### Sztumski
+
+Code: PL022016, Coordinates: 53.901, 19.261
+
+
+### Tczewski
+
+Code: PL022014, Coordinates: 53.919, 18.747
+
+
+### Wejherowski
+
+Code: PL022015, Coordinates: 54.617, 18.102
+
+

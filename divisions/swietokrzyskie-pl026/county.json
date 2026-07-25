@@ -1,0 +1,632 @@
+[
+  {
+    "id": "PL026001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Buski",
+      "en": "Buski",
+      "slug": "buski-pl026001"
+    },
+    "code": {
+      "id": "PL026001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.456",
+      "lon": "20.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jedrzejowski",
+      "en": "Jedrzejowski",
+      "slug": "jedrzejowski-pl026002"
+    },
+    "code": {
+      "id": "PL026002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.657",
+      "lon": "20.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kazimierski",
+      "en": "Kazimierski",
+      "slug": "kazimierski-pl026003"
+    },
+    "code": {
+      "id": "PL026003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.288",
+      "lon": "20.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kielce",
+      "en": "Kielce",
+      "slug": "kielce-pl026061"
+    },
+    "code": {
+      "id": "PL026061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.854",
+      "lon": "20.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kielecki",
+      "en": "Kielecki",
+      "slug": "kielecki-pl026004"
+    },
+    "code": {
+      "id": "PL026004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.802",
+      "lon": "20.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Konecki",
+      "en": "Konecki",
+      "slug": "konecki-pl026005"
+    },
+    "code": {
+      "id": "PL026005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.152",
+      "lon": "20.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Opatowski",
+      "en": "Opatowski",
+      "slug": "opatowski-pl026006"
+    },
+    "code": {
+      "id": "PL026006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.879",
+      "lon": "21.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ostrowiecki",
+      "en": "Ostrowiecki",
+      "slug": "ostrowiecki-pl026007"
+    },
+    "code": {
+      "id": "PL026007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.942",
+      "lon": "21.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pinczowski",
+      "en": "Pinczowski",
+      "slug": "pinczowski-pl026008"
+    },
+    "code": {
+      "id": "PL026008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.5",
+      "lon": "20.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sandomierski",
+      "en": "Sandomierski",
+      "slug": "sandomierski-pl026009"
+    },
+    "code": {
+      "id": "PL026009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.695",
+      "lon": "21.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Skarzyski",
+      "en": "Skarzyski",
+      "slug": "skarzyski-pl026010"
+    },
+    "code": {
+      "id": "PL026010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.065",
+      "lon": "20.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Starachowicki",
+      "en": "Starachowicki",
+      "slug": "starachowicki-pl026011"
+    },
+    "code": {
+      "id": "PL026011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.054",
+      "lon": "21.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Staszowski",
+      "en": "Staszowski",
+      "slug": "staszowski-pl026012"
+    },
+    "code": {
+      "id": "PL026012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.517",
+      "lon": "21.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL026013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wloszczowski",
+      "en": "Wloszczowski",
+      "slug": "wloszczowski-pl026013"
+    },
+    "code": {
+      "id": "PL026013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL026",
+      "level": 1,
+      "name": {
+        "local": "Świętokrzyskie",
+        "en": "Swietokrzyskie",
+        "slug": "swietokrzyskie-pl026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL026",
+        "level": 1,
+        "name": {
+          "local": "Świętokrzyskie",
+          "en": "Swietokrzyskie",
+          "slug": "swietokrzyskie-pl026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.832",
+      "lon": "19.975"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

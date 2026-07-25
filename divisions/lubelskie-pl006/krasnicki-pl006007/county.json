@@ -1,0 +1,45 @@
+{
+  "id": "PL006007",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Krasnicki",
+    "en": "Krasnicki",
+    "slug": "krasnicki-pl006007"
+  },
+  "code": {
+    "id": "PL006007",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.916",
+    "lon": "22.14"
+  },
+  "metadata": {},
+  "source": {}
+}

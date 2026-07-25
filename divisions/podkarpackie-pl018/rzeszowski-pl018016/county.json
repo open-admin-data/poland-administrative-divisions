@@ -1,0 +1,45 @@
+{
+  "id": "PL018016",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Rzeszowski",
+    "en": "Rzeszowski",
+    "slug": "rzeszowski-pl018016"
+  },
+  "code": {
+    "id": "PL018016",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL018",
+    "level": 1,
+    "name": {
+      "local": "Podkarpackie",
+      "en": "Podkarpackie",
+      "slug": "podkarpackie-pl018"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL018",
+      "level": 1,
+      "name": {
+        "local": "Podkarpackie",
+        "en": "Podkarpackie",
+        "slug": "podkarpackie-pl018"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.058",
+    "lon": "21.861"
+  },
+  "metadata": {},
+  "source": {}
+}

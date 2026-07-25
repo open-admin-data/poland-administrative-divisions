@@ -1,0 +1,33 @@
+{
+  "id": "PL010",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Łódzkie",
+    "en": "Lodzkie",
+    "slug": "lodzkie-pl010"
+  },
+  "code": {
+    "id": "PL010",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.619",
+    "lon": "19.394"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/lodzkie-pl010/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}

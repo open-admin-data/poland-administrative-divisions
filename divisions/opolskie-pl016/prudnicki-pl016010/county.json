@@ -1,0 +1,45 @@
+{
+  "id": "PL016010",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Prudnicki",
+    "en": "Prudnicki",
+    "slug": "prudnicki-pl016010"
+  },
+  "code": {
+    "id": "PL016010",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL016",
+    "level": 1,
+    "name": {
+      "local": "Opolskie",
+      "en": "Opolskie",
+      "slug": "opolskie-pl016"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL016",
+      "level": 1,
+      "name": {
+        "local": "Opolskie",
+        "en": "Opolskie",
+        "slug": "opolskie-pl016"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.41",
+    "lon": "17.663"
+  },
+  "metadata": {},
+  "source": {}
+}

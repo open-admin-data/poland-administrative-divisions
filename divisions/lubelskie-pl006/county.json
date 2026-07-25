@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "PL006061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Biala Podlaska",
+      "en": "Biala Podlaska",
+      "slug": "biala-podlaska-pl006061"
+    },
+    "code": {
+      "id": "PL006061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.029",
+      "lon": "23.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bialski",
+      "en": "Bialski",
+      "slug": "bialski-pl006001"
+    },
+    "code": {
+      "id": "PL006001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.972",
+      "lon": "23.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bilgorajski",
+      "en": "Bilgorajski",
+      "slug": "bilgorajski-pl006002"
+    },
+    "code": {
+      "id": "PL006002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.586",
+      "lon": "22.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chelm",
+      "en": "Chelm",
+      "slug": "chelm-pl006062"
+    },
+    "code": {
+      "id": "PL006062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.136",
+      "lon": "23.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chelmski",
+      "en": "Chelmski",
+      "slug": "chelmski-pl006003"
+    },
+    "code": {
+      "id": "PL006003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.122",
+      "lon": "23.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Hrubieszowski",
+      "en": "Hrubieszowski",
+      "slug": "hrubieszowski-pl006004"
+    },
+    "code": {
+      "id": "PL006004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.708",
+      "lon": "23.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Janowski",
+      "en": "Janowski",
+      "slug": "janowski-pl006005"
+    },
+    "code": {
+      "id": "PL006005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.745",
+      "lon": "22.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krasnicki",
+      "en": "Krasnicki",
+      "slug": "krasnicki-pl006007"
+    },
+    "code": {
+      "id": "PL006007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.916",
+      "lon": "22.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krasnostawski",
+      "en": "Krasnostawski",
+      "slug": "krasnostawski-pl006006"
+    },
+    "code": {
+      "id": "PL006006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.963",
+      "lon": "23.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Leczynski",
+      "en": "Leczynski",
+      "slug": "leczynski-pl006010"
+    },
+    "code": {
+      "id": "PL006010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.305",
+      "lon": "22.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lubartowski",
+      "en": "Lubartowski",
+      "slug": "lubartowski-pl006008"
+    },
+    "code": {
+      "id": "PL006008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.535",
+      "lon": "22.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lubelski",
+      "en": "Lubelski",
+      "slug": "lubelski-pl006009"
+    },
+    "code": {
+      "id": "PL006009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.134",
+      "lon": "22.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lublin",
+      "en": "Lublin",
+      "slug": "lublin-pl006063"
+    },
+    "code": {
+      "id": "PL006063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.218",
+      "lon": "22.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lukowski",
+      "en": "Lukowski",
+      "slug": "lukowski-pl006011"
+    },
+    "code": {
+      "id": "PL006011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.854",
+      "lon": "22.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Opolski",
+      "en": "Opolski",
+      "slug": "opolski-pl006012"
+    },
+    "code": {
+      "id": "PL006012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.129",
+      "lon": "22.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Parczewski",
+      "en": "Parczewski",
+      "slug": "parczewski-pl006013"
+    },
+    "code": {
+      "id": "PL006013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.6",
+      "lon": "22.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pulawski",
+      "en": "Pulawski",
+      "slug": "pulawski-pl006014"
+    },
+    "code": {
+      "id": "PL006014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.419",
+      "lon": "22.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Radzynski",
+      "en": "Radzynski",
+      "slug": "radzynski-pl006015"
+    },
+    "code": {
+      "id": "PL006015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.783",
+      "lon": "22.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rycki",
+      "en": "Rycki",
+      "slug": "rycki-pl006016"
+    },
+    "code": {
+      "id": "PL006016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.662",
+      "lon": "22.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Swidnicki",
+      "en": "Swidnicki",
+      "slug": "swidnicki-pl006017"
+    },
+    "code": {
+      "id": "PL006017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.125",
+      "lon": "22.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tomaszowski",
+      "en": "Tomaszowski",
+      "slug": "tomaszowski-pl006018"
+    },
+    "code": {
+      "id": "PL006018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.478",
+      "lon": "23.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wlodawski",
+      "en": "Wlodawski",
+      "slug": "wlodawski-pl006019"
+    },
+    "code": {
+      "id": "PL006019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.523",
+      "lon": "23.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006020",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zamojski",
+      "en": "Zamojski",
+      "slug": "zamojski-pl006020"
+    },
+    "code": {
+      "id": "PL006020",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.692",
+      "lon": "23.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL006064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zamosc",
+      "en": "Zamosc",
+      "slug": "zamosc-pl006064"
+    },
+    "code": {
+      "id": "PL006064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL006",
+        "level": 1,
+        "name": {
+          "local": "Lubelskie",
+          "en": "Lubelskie",
+          "slug": "lubelskie-pl006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.722",
+      "lon": "23.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

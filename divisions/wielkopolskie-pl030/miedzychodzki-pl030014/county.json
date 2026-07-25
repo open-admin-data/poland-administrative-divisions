@@ -1,0 +1,45 @@
+{
+  "id": "PL030014",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Miedzychodzki",
+    "en": "Miedzychodzki",
+    "slug": "miedzychodzki-pl030014"
+  },
+  "code": {
+    "id": "PL030014",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL030",
+    "level": 1,
+    "name": {
+      "local": "Wielkopolskie",
+      "en": "Wielkopolskie",
+      "slug": "wielkopolskie-pl030"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL030",
+      "level": 1,
+      "name": {
+        "local": "Wielkopolskie",
+        "en": "Wielkopolskie",
+        "slug": "wielkopolskie-pl030"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.602",
+    "lon": "16.034"
+  },
+  "metadata": {},
+  "source": {}
+}

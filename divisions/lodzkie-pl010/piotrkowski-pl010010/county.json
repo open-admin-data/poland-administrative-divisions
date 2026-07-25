@@ -1,0 +1,45 @@
+{
+  "id": "PL010010",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Piotrkowski",
+    "en": "Piotrkowski",
+    "slug": "piotrkowski-pl010010"
+  },
+  "code": {
+    "id": "PL010010",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL010",
+    "level": 1,
+    "name": {
+      "local": "Łódzkie",
+      "en": "Lodzkie",
+      "slug": "lodzkie-pl010"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL010",
+      "level": 1,
+      "name": {
+        "local": "Łódzkie",
+        "en": "Lodzkie",
+        "slug": "lodzkie-pl010"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "51.378",
+    "lon": "19.577"
+  },
+  "metadata": {},
+  "source": {}
+}

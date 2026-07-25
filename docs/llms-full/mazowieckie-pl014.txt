@@ -1,0 +1,219 @@
+# Mazowieckie — Poland Administrative Divisions
+
+> 42 countys
+> Code: PL014
+> Coordinates: 52.248, 21.563
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Bialobrzeski
+
+Code: PL014001, Coordinates: 51.621, 20.968
+
+
+### Ciechanowski
+
+Code: PL014002, Coordinates: 52.902, 20.628
+
+
+### Garwolinski
+
+Code: PL014003, Coordinates: 51.827, 21.653
+
+
+### Gostyninski
+
+Code: PL014004, Coordinates: 52.39, 19.482
+
+
+### Grodziski
+
+Code: PL014005, Coordinates: 52.064, 20.6
+
+
+### Grojecki
+
+Code: PL014006, Coordinates: 51.757, 20.87
+
+
+### Kozienicki
+
+Code: PL014007, Coordinates: 51.64, 21.402
+
+
+### Legionowski
+
+Code: PL014008, Coordinates: 52.452, 20.937
+
+
+### Lipski
+
+Code: PL014009, Coordinates: 51.159, 21.56
+
+
+### Losicki
+
+Code: PL014010, Coordinates: 52.224, 22.838
+
+
+### Makowski
+
+Code: PL014011, Coordinates: 52.947, 21.253
+
+
+### Minski
+
+Code: PL014012, Coordinates: 52.184, 21.654
+
+
+### Mlawski
+
+Code: PL014013, Coordinates: 53.055, 20.322
+
+
+### Nowodworski
+
+Code: PL014014, Coordinates: 52.466, 20.667
+
+
+### Ostrolecki
+
+Code: PL014015, Coordinates: 53.14, 21.452
+
+
+### Ostroleka
+
+Code: PL014061, Coordinates: 53.078, 21.575
+
+
+### Ostrowski
+
+Code: PL014016, Coordinates: 52.795, 21.989
+
+
+### Otwocki
+
+Code: PL014017, Coordinates: 52.049, 21.396
+
+
+### Piaseczynski
+
+Code: PL014018, Coordinates: 52.016, 21.014
+
+
+### Plock
+
+Code: PL014062, Coordinates: 52.535, 19.714
+
+
+### Plocki
+
+Code: PL014019, Coordinates: 52.555, 19.966
+
+
+### Plonski
+
+Code: PL014020, Coordinates: 52.639, 20.432
+
+
+### Pruszkowski
+
+Code: PL014021, Coordinates: 52.101, 20.841
+
+
+### Przasnyski
+
+Code: PL014022, Coordinates: 53.114, 20.913
+
+
+### Przysuski
+
+Code: PL014023, Coordinates: 51.424, 20.63
+
+
+### Pultuski
+
+Code: PL014024, Coordinates: 52.672, 20.992
+
+
+### Radom
+
+Code: PL014063, Coordinates: 51.417, 21.161
+
+
+### Radomski
+
+Code: PL014025, Coordinates: 51.336, 21.192
+
+
+### Siedlce
+
+Code: PL014064, Coordinates: 52.162, 22.281
+
+
+### Siedlecki
+
+Code: PL014026, Coordinates: 52.192, 22.453
+
+
+### Sierpecki
+
+Code: PL014027, Coordinates: 52.834, 19.692
+
+
+### Sochaczewski
+
+Code: PL014028, Coordinates: 52.267, 20.153
+
+
+### Sokolowski
+
+Code: PL014029, Coordinates: 52.495, 22.321
+
+
+### Szydlowiecki
+
+Code: PL014030, Coordinates: 51.256, 20.844
+
+
+### Warszawa
+
+Code: PL014065, Coordinates: 52.233, 21.071
+
+
+### Warszawski Zachodni
+
+Code: PL014032, Coordinates: 52.269, 20.608
+
+
+### Wegrowski
+
+Code: PL014033, Coordinates: 52.456, 21.946
+
+
+### Wolominski
+
+Code: PL014034, Coordinates: 52.406, 21.416
+
+
+### Wyszkowski
+
+Code: PL014035, Coordinates: 52.651, 21.511
+
+
+### Zurominski
+
+Code: PL014037, Coordinates: 53.017, 19.878
+
+
+### Zwolenski
+
+Code: PL014036, Coordinates: 51.361, 21.642
+
+
+### Zyrardowski
+
+Code: PL014038, Coordinates: 52, 20.437
+
+

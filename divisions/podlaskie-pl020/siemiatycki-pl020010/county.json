@@ -1,0 +1,45 @@
+{
+  "id": "PL020010",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Siemiatycki",
+    "en": "Siemiatycki",
+    "slug": "siemiatycki-pl020010"
+  },
+  "code": {
+    "id": "PL020010",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL020",
+    "level": 1,
+    "name": {
+      "local": "Podlaskie",
+      "en": "Podlaskie",
+      "slug": "podlaskie-pl020"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL020",
+      "level": 1,
+      "name": {
+        "local": "Podlaskie",
+        "en": "Podlaskie",
+        "slug": "podlaskie-pl020"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.489",
+    "lon": "22.885"
+  },
+  "metadata": {},
+  "source": {}
+}

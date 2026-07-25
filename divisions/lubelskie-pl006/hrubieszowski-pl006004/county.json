@@ -1,0 +1,45 @@
+{
+  "id": "PL006004",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Hrubieszowski",
+    "en": "Hrubieszowski",
+    "slug": "hrubieszowski-pl006004"
+  },
+  "code": {
+    "id": "PL006004",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL006",
+    "level": 1,
+    "name": {
+      "local": "Lubelskie",
+      "en": "Lubelskie",
+      "slug": "lubelskie-pl006"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL006",
+      "level": 1,
+      "name": {
+        "local": "Lubelskie",
+        "en": "Lubelskie",
+        "slug": "lubelskie-pl006"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.708",
+    "lon": "23.849"
+  },
+  "metadata": {},
+  "source": {}
+}

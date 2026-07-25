@@ -1,0 +1,43 @@
+# Poland Administrative Divisions — Full Reference
+
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Per-Voivodeship Data Files
+
+- [Dolnoslaskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/dolnoslaskie-pl002.txt) — 30 countys
+- [Kujawsko-Pomorskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/kujawsko-pomorskie-pl004.txt) — 23 countys
+- [Lubelskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/lubelskie-pl006.txt) — 24 countys
+- [Lubuskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/lubuskie-pl008.txt) — 14 countys
+- [Lodzkie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/lodzkie-pl010.txt) — 24 countys
+- [Malopolskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/malopolskie-pl012.txt) — 22 countys
+- [Mazowieckie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/mazowieckie-pl014.txt) — 42 countys
+- [Opolskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/opolskie-pl016.txt) — 12 countys
+- [Podkarpackie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/podkarpackie-pl018.txt) — 25 countys
+- [Podlaskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/podlaskie-pl020.txt) — 17 countys
+- [Pomorskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/pomorskie-pl022.txt) — 20 countys
+- [Slaskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/slaskie-pl024.txt) — 36 countys
+- [Swietokrzyskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/swietokrzyskie-pl026.txt) — 14 countys
+- [Warminsko-Mazurskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/warminsko-mazurskie-pl028.txt) — 21 countys
+- [Wielkopolskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/wielkopolskie-pl030.txt) — 35 countys
+- [Zachodniopomorskie](https://github.com/open-admin-data/poland-administrative-divisions/blob/main/docs/llms-full/zachodniopomorskie-pl032.txt) — 21 countys
+
+## Summary
+
+| Voivodeship | Countys | 
+|---|---|
+| Dolnoslaskie | 30 | 
+| Kujawsko-Pomorskie | 23 | 
+| Lubelskie | 24 | 
+| Lubuskie | 14 | 
+| Lodzkie | 24 | 
+| Malopolskie | 22 | 
+| Mazowieckie | 42 | 
+| Opolskie | 12 | 
+| Podkarpackie | 25 | 
+| Podlaskie | 17 | 
+| Pomorskie | 20 | 
+| Slaskie | 36 | 
+| Swietokrzyskie | 14 | 
+| Warminsko-Mazurskie | 21 | 
+| Wielkopolskie | 35 | 
+| Zachodniopomorskie | 21 | 

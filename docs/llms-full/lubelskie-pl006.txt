@@ -1,0 +1,129 @@
+# Lubelskie — Poland Administrative Divisions
+
+> 24 countys
+> Code: PL006
+> Coordinates: 51.27, 22.779
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Biala Podlaska
+
+Code: PL006061, Coordinates: 52.029, 23.15
+
+
+### Bialski
+
+Code: PL006001, Coordinates: 51.972, 23.15
+
+
+### Bilgorajski
+
+Code: PL006002, Coordinates: 50.586, 22.749
+
+
+### Chelm
+
+Code: PL006062, Coordinates: 51.136, 23.494
+
+
+### Chelmski
+
+Code: PL006003, Coordinates: 51.122, 23.256
+
+
+### Hrubieszowski
+
+Code: PL006004, Coordinates: 50.708, 23.849
+
+
+### Janowski
+
+Code: PL006005, Coordinates: 50.745, 22.423
+
+
+### Krasnicki
+
+Code: PL006007, Coordinates: 50.916, 22.14
+
+
+### Krasnostawski
+
+Code: PL006006, Coordinates: 50.963, 23.1
+
+
+### Leczynski
+
+Code: PL006010, Coordinates: 51.305, 22.996
+
+
+### Lubartowski
+
+Code: PL006008, Coordinates: 51.535, 22.517
+
+
+### Lubelski
+
+Code: PL006009, Coordinates: 51.134, 22.438
+
+
+### Lublin
+
+Code: PL006063, Coordinates: 51.218, 22.555
+
+
+### Lukowski
+
+Code: PL006011, Coordinates: 51.854, 22.116
+
+
+### Opolski
+
+Code: PL006012, Coordinates: 51.129, 22.001
+
+
+### Parczewski
+
+Code: PL006013, Coordinates: 51.6, 22.932
+
+
+### Pulawski
+
+Code: PL006014, Coordinates: 51.419, 22.07
+
+
+### Radzynski
+
+Code: PL006015, Coordinates: 51.783, 22.67
+
+
+### Rycki
+
+Code: PL006016, Coordinates: 51.662, 22.006
+
+
+### Swidnicki
+
+Code: PL006017, Coordinates: 51.125, 22.882
+
+
+### Tomaszowski
+
+Code: PL006018, Coordinates: 50.478, 23.58
+
+
+### Wlodawski
+
+Code: PL006019, Coordinates: 51.523, 23.408
+
+
+### Zamojski
+
+Code: PL006020, Coordinates: 50.692, 23.207
+
+
+### Zamosc
+
+Code: PL006064, Coordinates: 50.722, 23.26
+
+

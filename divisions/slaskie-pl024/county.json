@@ -1,0 +1,1622 @@
+[
+  {
+    "id": "PL024001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bedzinski",
+      "en": "Bedzinski",
+      "slug": "bedzinski-pl024001"
+    },
+    "code": {
+      "id": "PL024001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.415",
+      "lon": "19.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bielski",
+      "en": "Bielski",
+      "slug": "bielski-pl024002"
+    },
+    "code": {
+      "id": "PL024002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.806",
+      "lon": "18.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bielsko-Biala",
+      "en": "Bielsko-Biala",
+      "slug": "bielsko-biala-pl024061"
+    },
+    "code": {
+      "id": "PL024061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.812",
+      "lon": "19.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bierunsko-Ledzinski",
+      "en": "Bierunsko-Ledzinski",
+      "slug": "bierunsko-ledzinski-pl024014"
+    },
+    "code": {
+      "id": "PL024014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.093",
+      "lon": "19.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bytom",
+      "en": "Bytom",
+      "slug": "bytom-pl024062"
+    },
+    "code": {
+      "id": "PL024062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.365",
+      "lon": "18.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024063",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Chorzow",
+      "en": "Chorzow",
+      "slug": "chorzow-pl024063"
+    },
+    "code": {
+      "id": "PL024063",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.289",
+      "lon": "18.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Cieszynski",
+      "en": "Cieszynski",
+      "slug": "cieszynski-pl024003"
+    },
+    "code": {
+      "id": "PL024003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.726",
+      "lon": "18.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024064",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Czestochowa",
+      "en": "Czestochowa",
+      "slug": "czestochowa-pl024064"
+    },
+    "code": {
+      "id": "PL024064",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.81",
+      "lon": "19.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Czestochowski",
+      "en": "Czestochowski",
+      "slug": "czestochowski-pl024004"
+    },
+    "code": {
+      "id": "PL024004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.841",
+      "lon": "19.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024065",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Dabrowa Gornicza",
+      "en": "Dabrowa Gornicza",
+      "slug": "dabrowa-gornicza-pl024065"
+    },
+    "code": {
+      "id": "PL024065",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.37",
+      "lon": "19.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024066",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gliwice",
+      "en": "Gliwice",
+      "slug": "gliwice-pl024066"
+    },
+    "code": {
+      "id": "PL024066",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.301",
+      "lon": "18.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gliwicki",
+      "en": "Gliwicki",
+      "slug": "gliwicki-pl024005"
+    },
+    "code": {
+      "id": "PL024005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.363",
+      "lon": "18.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024067",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jastrzebie-Zdroj",
+      "en": "Jastrzebie-Zdroj",
+      "slug": "jastrzebie-zdroj-pl024067"
+    },
+    "code": {
+      "id": "PL024067",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.961",
+      "lon": "18.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024068",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Jaworzno",
+      "en": "Jaworzno",
+      "slug": "jaworzno-pl024068"
+    },
+    "code": {
+      "id": "PL024068",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.19",
+      "lon": "19.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024069",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Katowice",
+      "en": "Katowice",
+      "slug": "katowice-pl024069"
+    },
+    "code": {
+      "id": "PL024069",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.214",
+      "lon": "19.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Klobucki",
+      "en": "Klobucki",
+      "slug": "klobucki-pl024006"
+    },
+    "code": {
+      "id": "PL024006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.933",
+      "lon": "18.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lubliniecki",
+      "en": "Lubliniecki",
+      "slug": "lubliniecki-pl024007"
+    },
+    "code": {
+      "id": "PL024007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.674",
+      "lon": "18.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mikolowski",
+      "en": "Mikolowski",
+      "slug": "mikolowski-pl024008"
+    },
+    "code": {
+      "id": "PL024008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.151",
+      "lon": "18.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024070",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Myslowice",
+      "en": "Myslowice",
+      "slug": "myslowice-pl024070"
+    },
+    "code": {
+      "id": "PL024070",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.21",
+      "lon": "19.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Myszkowski",
+      "en": "Myszkowski",
+      "slug": "myszkowski-pl024009"
+    },
+    "code": {
+      "id": "PL024009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.606",
+      "lon": "19.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024071",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Piekary Slaskie",
+      "en": "Piekary Slaskie",
+      "slug": "piekary-slaskie-pl024071"
+    },
+    "code": {
+      "id": "PL024071",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.376",
+      "lon": "18.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pszczynski",
+      "en": "Pszczynski",
+      "slug": "pszczynski-pl024010"
+    },
+    "code": {
+      "id": "PL024010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.99",
+      "lon": "18.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Raciborski",
+      "en": "Raciborski",
+      "slug": "raciborski-pl024011"
+    },
+    "code": {
+      "id": "PL024011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.087",
+      "lon": "18.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024072",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ruda Slaska",
+      "en": "Ruda Slaska",
+      "slug": "ruda-slaska-pl024072"
+    },
+    "code": {
+      "id": "PL024072",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.27",
+      "lon": "18.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rybnicki",
+      "en": "Rybnicki",
+      "slug": "rybnicki-pl024012"
+    },
+    "code": {
+      "id": "PL024012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.114",
+      "lon": "18.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024073",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rybnik",
+      "en": "Rybnik",
+      "slug": "rybnik-pl024073"
+    },
+    "code": {
+      "id": "PL024073",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.111",
+      "lon": "18.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024074",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Siemianowice Slaskie",
+      "en": "Siemianowice Slaskie",
+      "slug": "siemianowice-slaskie-pl024074"
+    },
+    "code": {
+      "id": "PL024074",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.312",
+      "lon": "19.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024075",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sosnowiec",
+      "en": "Sosnowiec",
+      "slug": "sosnowiec-pl024075"
+    },
+    "code": {
+      "id": "PL024075",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.271",
+      "lon": "19.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024076",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Swietochlowice",
+      "en": "Swietochlowice",
+      "slug": "swietochlowice-pl024076"
+    },
+    "code": {
+      "id": "PL024076",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.298",
+      "lon": "18.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tarnogorski",
+      "en": "Tarnogorski",
+      "slug": "tarnogorski-pl024013"
+    },
+    "code": {
+      "id": "PL024013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.473",
+      "lon": "18.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024077",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tychy",
+      "en": "Tychy",
+      "slug": "tychy-pl024077"
+    },
+    "code": {
+      "id": "PL024077",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.127",
+      "lon": "19.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wodzislawski",
+      "en": "Wodzislawski",
+      "slug": "wodzislawski-pl024015"
+    },
+    "code": {
+      "id": "PL024015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.993",
+      "lon": "18.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024078",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zabrze",
+      "en": "Zabrze",
+      "slug": "zabrze-pl024078"
+    },
+    "code": {
+      "id": "PL024078",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.314",
+      "lon": "18.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zawiercianski",
+      "en": "Zawiercianski",
+      "slug": "zawiercianski-pl024016"
+    },
+    "code": {
+      "id": "PL024016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.544",
+      "lon": "19.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024079",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zory",
+      "en": "Zory",
+      "slug": "zory-pl024079"
+    },
+    "code": {
+      "id": "PL024079",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "50.039",
+      "lon": "18.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL024017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zywiecki",
+      "en": "Zywiecki",
+      "slug": "zywiecki-pl024017"
+    },
+    "code": {
+      "id": "PL024017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL024",
+        "level": 1,
+        "name": {
+          "local": "Śląskie",
+          "en": "Slaskie",
+          "slug": "slaskie-pl024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "49.612",
+      "lon": "19.228"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

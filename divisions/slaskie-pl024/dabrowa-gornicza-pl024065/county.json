@@ -1,0 +1,45 @@
+{
+  "id": "PL024065",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Dabrowa Gornicza",
+    "en": "Dabrowa Gornicza",
+    "slug": "dabrowa-gornicza-pl024065"
+  },
+  "code": {
+    "id": "PL024065",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.37",
+    "lon": "19.289"
+  },
+  "metadata": {},
+  "source": {}
+}

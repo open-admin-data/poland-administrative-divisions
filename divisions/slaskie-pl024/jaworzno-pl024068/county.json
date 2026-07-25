@@ -1,0 +1,45 @@
+{
+  "id": "PL024068",
+  "level": 2,
+  "level_name": {
+    "local": "Powiat",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jaworzno",
+    "en": "Jaworzno",
+    "slug": "jaworzno-pl024068"
+  },
+  "code": {
+    "id": "PL024068",
+    "iso": null
+  },
+  "parent": {
+    "id": "PL024",
+    "level": 1,
+    "name": {
+      "local": "Śląskie",
+      "en": "Slaskie",
+      "slug": "slaskie-pl024"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "PL024",
+      "level": 1,
+      "name": {
+        "local": "Śląskie",
+        "en": "Slaskie",
+        "slug": "slaskie-pl024"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [],
+  "geo": {
+    "lat": "50.19",
+    "lon": "19.273"
+  },
+  "metadata": {},
+  "source": {}
+}

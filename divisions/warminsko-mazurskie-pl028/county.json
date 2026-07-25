@@ -1,0 +1,947 @@
+[
+  {
+    "id": "PL028001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Bartoszycki",
+      "en": "Bartoszycki",
+      "slug": "bartoszycki-pl028001"
+    },
+    "code": {
+      "id": "PL028001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.213",
+      "lon": "20.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Braniewski",
+      "en": "Braniewski",
+      "slug": "braniewski-pl028002"
+    },
+    "code": {
+      "id": "PL028002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.278",
+      "lon": "19.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Dzialdowski",
+      "en": "Dzialdowski",
+      "slug": "dzialdowski-pl028003"
+    },
+    "code": {
+      "id": "PL028003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.289",
+      "lon": "19.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Elblag",
+      "en": "Elblag",
+      "slug": "elblag-pl028061"
+    },
+    "code": {
+      "id": "PL028061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.199",
+      "lon": "19.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Elblaski",
+      "en": "Elblaski",
+      "slug": "elblaski-pl028004"
+    },
+    "code": {
+      "id": "PL028004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.159",
+      "lon": "19.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Elcki",
+      "en": "Elcki",
+      "slug": "elcki-pl028005"
+    },
+    "code": {
+      "id": "PL028005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.817",
+      "lon": "22.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gizycki",
+      "en": "Gizycki",
+      "slug": "gizycki-pl028006"
+    },
+    "code": {
+      "id": "PL028006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.018",
+      "lon": "21.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028018",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Goldapski",
+      "en": "Goldapski",
+      "slug": "goldapski-pl028018"
+    },
+    "code": {
+      "id": "PL028018",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.261",
+      "lon": "22.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ilawski",
+      "en": "Ilawski",
+      "slug": "ilawski-pl028007"
+    },
+    "code": {
+      "id": "PL028007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.675",
+      "lon": "19.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ketrzynski",
+      "en": "Ketrzynski",
+      "slug": "ketrzynski-pl028008"
+    },
+    "code": {
+      "id": "PL028008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.136",
+      "lon": "21.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lidzbarski",
+      "en": "Lidzbarski",
+      "slug": "lidzbarski-pl028009"
+    },
+    "code": {
+      "id": "PL028009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.106",
+      "lon": "20.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mragowski",
+      "en": "Mragowski",
+      "slug": "mragowski-pl028010"
+    },
+    "code": {
+      "id": "PL028010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.811",
+      "lon": "21.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nidzicki",
+      "en": "Nidzicki",
+      "slug": "nidzicki-pl028011"
+    },
+    "code": {
+      "id": "PL028011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.373",
+      "lon": "20.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowomiejski",
+      "en": "Nowomiejski",
+      "slug": "nowomiejski-pl028012"
+    },
+    "code": {
+      "id": "PL028012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.436",
+      "lon": "19.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028013",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Olecki",
+      "en": "Olecki",
+      "slug": "olecki-pl028013"
+    },
+    "code": {
+      "id": "PL028013",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.051",
+      "lon": "22.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Olsztyn",
+      "en": "Olsztyn",
+      "slug": "olsztyn-pl028062"
+    },
+    "code": {
+      "id": "PL028062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.776",
+      "lon": "20.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028014",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Olsztynski",
+      "en": "Olsztynski",
+      "slug": "olsztynski-pl028014"
+    },
+    "code": {
+      "id": "PL028014",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.779",
+      "lon": "20.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028015",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ostrodzki",
+      "en": "Ostrodzki",
+      "slug": "ostrodzki-pl028015"
+    },
+    "code": {
+      "id": "PL028015",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.729",
+      "lon": "19.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028016",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Piski",
+      "en": "Piski",
+      "slug": "piski-pl028016"
+    },
+    "code": {
+      "id": "PL028016",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.681",
+      "lon": "21.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028017",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Szczycienski",
+      "en": "Szczycienski",
+      "slug": "szczycienski-pl028017"
+    },
+    "code": {
+      "id": "PL028017",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "53.542",
+      "lon": "21.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL028019",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wegorzewski",
+      "en": "Wegorzewski",
+      "slug": "wegorzewski-pl028019"
+    },
+    "code": {
+      "id": "PL028019",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL028",
+      "level": 1,
+      "name": {
+        "local": "Warmińsko-Mazurskie",
+        "en": "Warminsko-Mazurskie",
+        "slug": "warminsko-mazurskie-pl028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL028",
+        "level": 1,
+        "name": {
+          "local": "Warmińsko-Mazurskie",
+          "en": "Warminsko-Mazurskie",
+          "slug": "warminsko-mazurskie-pl028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "54.207",
+      "lon": "21.792"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

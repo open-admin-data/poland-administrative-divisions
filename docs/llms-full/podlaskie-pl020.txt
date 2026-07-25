@@ -1,0 +1,94 @@
+# Podlaskie — Poland Administrative Divisions
+
+> 17 countys
+> Code: PL020
+> Coordinates: 53.346, 22.709
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Augustowski
+
+Code: PL020001, Coordinates: 53.797, 23.134
+
+
+### Bialostocki
+
+Code: PL020002, Coordinates: 53.117, 23.557
+
+
+### Bialystok
+
+Code: PL020061, Coordinates: 53.128, 23.147
+
+
+### Bielski
+
+Code: PL020003, Coordinates: 52.746, 23.004
+
+
+### Grajewski
+
+Code: PL020004, Coordinates: 53.555, 22.419
+
+
+### Hajnowski
+
+Code: PL020005, Coordinates: 52.708, 23.661
+
+
+### Kolnenski
+
+Code: PL020006, Coordinates: 53.392, 21.959
+
+
+### Lomza
+
+Code: PL020062, Coordinates: 53.183, 22.052
+
+
+### Lomzynski
+
+Code: PL020007, Coordinates: 53.208, 22.278
+
+
+### Moniecki
+
+Code: PL020008, Coordinates: 53.446, 22.817
+
+
+### Sejnenski
+
+Code: PL020009, Coordinates: 54.096, 23.312
+
+
+### Siemiatycki
+
+Code: PL020010, Coordinates: 52.489, 22.885
+
+
+### Sokolski
+
+Code: PL020011, Coordinates: 53.435, 23.386
+
+
+### Suwalki
+
+Code: PL020063, Coordinates: 54.103, 22.932
+
+
+### Suwalski
+
+Code: PL020012, Coordinates: 54.167, 22.814
+
+
+### Wysokomazowiecki
+
+Code: PL020013, Coordinates: 52.865, 22.52
+
+
+### Zambrowski
+
+Code: PL020014, Coordinates: 53.023, 22.248
+
+

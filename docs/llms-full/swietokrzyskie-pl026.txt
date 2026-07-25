@@ -1,0 +1,79 @@
+# Swietokrzyskie — Poland Administrative Divisions
+
+> 14 countys
+> Code: PL026
+> Coordinates: 50.764, 20.799
+> Last updated: 2026-07-25. License: CC-BY-4.0.
+
+## Countys
+
+### Buski
+
+Code: PL026001, Coordinates: 50.456, 20.799
+
+
+### Jedrzejowski
+
+Code: PL026002, Coordinates: 50.657, 20.296
+
+
+### Kazimierski
+
+Code: PL026003, Coordinates: 50.288, 20.525
+
+
+### Kielce
+
+Code: PL026061, Coordinates: 50.854, 20.61
+
+
+### Kielecki
+
+Code: PL026004, Coordinates: 50.802, 20.881
+
+
+### Konecki
+
+Code: PL026005, Coordinates: 51.152, 20.346
+
+
+### Opatowski
+
+Code: PL026006, Coordinates: 50.879, 21.666
+
+
+### Ostrowiecki
+
+Code: PL026007, Coordinates: 50.942, 21.395
+
+
+### Pinczowski
+
+Code: PL026008, Coordinates: 50.5, 20.494
+
+
+### Sandomierski
+
+Code: PL026009, Coordinates: 50.695, 21.68
+
+
+### Skarzyski
+
+Code: PL026010, Coordinates: 51.065, 20.76
+
+
+### Starachowicki
+
+Code: PL026011, Coordinates: 51.054, 21.146
+
+
+### Staszowski
+
+Code: PL026012, Coordinates: 50.517, 21.306
+
+
+### Wloszczowski
+
+Code: PL026013, Coordinates: 50.832, 19.975
+
+

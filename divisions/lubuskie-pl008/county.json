@@ -1,0 +1,632 @@
+[
+  {
+    "id": "PL008061",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gorzow Wielkopolski",
+      "en": "Gorzow Wielkopolski",
+      "slug": "gorzow-wielkopolski-pl008061"
+    },
+    "code": {
+      "id": "PL008061",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.731",
+      "lon": "15.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008001",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gorzowski",
+      "en": "Gorzowski",
+      "slug": "gorzowski-pl008001"
+    },
+    "code": {
+      "id": "PL008001",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.739",
+      "lon": "14.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008002",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Krosnienski",
+      "en": "Krosnienski",
+      "slug": "krosnienski-pl008002"
+    },
+    "code": {
+      "id": "PL008002",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.01",
+      "lon": "14.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008003",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Miedzyrzecki",
+      "en": "Miedzyrzecki",
+      "slug": "miedzyrzecki-pl008003"
+    },
+    "code": {
+      "id": "PL008003",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.499",
+      "lon": "15.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008004",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nowosolski",
+      "en": "Nowosolski",
+      "slug": "nowosolski-pl008004"
+    },
+    "code": {
+      "id": "PL008004",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.842",
+      "lon": "15.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008005",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Slubicki",
+      "en": "Slubicki",
+      "slug": "slubicki-pl008005"
+    },
+    "code": {
+      "id": "PL008005",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.323",
+      "lon": "14.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008006",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Strzelecko-Drezdenecki",
+      "en": "Strzelecko-Drezdenecki",
+      "slug": "strzelecko-drezdenecki-pl008006"
+    },
+    "code": {
+      "id": "PL008006",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.912",
+      "lon": "15.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008007",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Sulecinski",
+      "en": "Sulecinski",
+      "slug": "sulecinski-pl008007"
+    },
+    "code": {
+      "id": "PL008007",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.428",
+      "lon": "15.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008008",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Swiebodzinski",
+      "en": "Swiebodzinski",
+      "slug": "swiebodzinski-pl008008"
+    },
+    "code": {
+      "id": "PL008008",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "52.237",
+      "lon": "15.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008012",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wschowski",
+      "en": "Wschowski",
+      "slug": "wschowski-pl008012"
+    },
+    "code": {
+      "id": "PL008012",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.83",
+      "lon": "16.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008010",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zaganski",
+      "en": "Zaganski",
+      "slug": "zaganski-pl008010"
+    },
+    "code": {
+      "id": "PL008010",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.595",
+      "lon": "15.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008011",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zarski",
+      "en": "Zarski",
+      "slug": "zarski-pl008011"
+    },
+    "code": {
+      "id": "PL008011",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.628",
+      "lon": "15.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008062",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zielona Gora",
+      "en": "Zielona Gora",
+      "slug": "zielona-gora-pl008062"
+    },
+    "code": {
+      "id": "PL008062",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.928",
+      "lon": "15.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "PL008009",
+    "level": 2,
+    "level_name": {
+      "local": "Powiat",
+      "en": "County"
+    },
+    "name": {
+      "local": "Zielonogorski",
+      "en": "Zielonogorski",
+      "slug": "zielonogorski-pl008009"
+    },
+    "code": {
+      "id": "PL008009",
+      "iso": null
+    },
+    "parent": {
+      "id": "PL008",
+      "level": 1,
+      "name": {
+        "local": "Lubuskie",
+        "en": "Lubuskie",
+        "slug": "lubuskie-pl008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "PL008",
+        "level": 1,
+        "name": {
+          "local": "Lubuskie",
+          "en": "Lubuskie",
+          "slug": "lubuskie-pl008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "51.976",
+      "lon": "15.763"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

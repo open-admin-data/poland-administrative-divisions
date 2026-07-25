@@ -1,0 +1,33 @@
+{
+  "id": "PL030",
+  "level": 1,
+  "level_name": {
+    "local": "Województwo",
+    "en": "Voivodeship"
+  },
+  "name": {
+    "local": "Wielkopolskie",
+    "en": "Wielkopolskie",
+    "slug": "wielkopolskie-pl030"
+  },
+  "code": {
+    "id": "PL030",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "52.38",
+    "lon": "17.314"
+  },
+  "metadata": {},
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/pl/voivodeships/wielkopolskie-pl030/",
+    "api": "https://openadmindata.org/api/pl/"
+  }
+}
