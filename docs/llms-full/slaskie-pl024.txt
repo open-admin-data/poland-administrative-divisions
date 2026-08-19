@@ -3,7 +3,7 @@
 > 36 countys
 > Code: PL024
 > Coordinates: 50.247, 18.846
-> Last updated: 2026-07-25. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

@@ -3,7 +3,7 @@
 > 25 countys
 > Code: PL018
 > Coordinates: 49.911, 22.179
-> Last updated: 2026-07-25. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

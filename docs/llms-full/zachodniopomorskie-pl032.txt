@@ -3,7 +3,7 @@
 > 21 countys
 > Code: PL032
 > Coordinates: 53.598, 15.528
-> Last updated: 2026-07-25. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Countys
 

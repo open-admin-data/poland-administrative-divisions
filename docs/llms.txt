@@ -9,7 +9,7 @@
 - Total voivodeships: 16
 - Total countys: 380
 - Coordinates: included (all levels)
-- Last updated: 2026-07-25
+- Last updated: 2026-08-19
 - License: CC-BY-4.0
 
 ## Aggregate Data Files
