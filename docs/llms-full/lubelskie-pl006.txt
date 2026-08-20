@@ -3,7 +3,7 @@
 > 24 countys
 > Code: PL006
 > Coordinates: 51.27, 22.779
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 

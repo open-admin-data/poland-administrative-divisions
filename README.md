@@ -11,9 +11,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/pl](https://openadmindata.org/pl/) |
 | API | [openadmindata.org/api/pl](https://openadmindata.org/api/pl/) |
+| Flag | [PNG](https://onlygames.me/flags-png/pl/) · [SVG](https://onlygames.me/flags-svg/pl/) · [PDF](https://onlygames.me/flags-pdf/pl/) |
 | National Anthem | [🎵 Listen & Download Poland National Anthem MP3](https://onlygames.me/national-anthems/pl/) |
 
 ## Browse by Voivodeship

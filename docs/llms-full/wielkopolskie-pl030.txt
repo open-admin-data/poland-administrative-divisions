@@ -3,7 +3,7 @@
 > 35 countys
 > Code: PL030
 > Coordinates: 52.38, 17.314
-> Last updated: 2026-08-19. License: CC-BY-4.0.
+> Last updated: 2026-08-20. License: CC-BY-4.0.
 
 ## Countys
 
